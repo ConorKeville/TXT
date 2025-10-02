@@ -1,0 +1,406 @@
+{
+  "title": "The First Part of Henry the Sixth",
+  "acts": [
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "dir": "Act_01",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "Westminster Abbey",
+          "file": "Act_01/Scene 01 - Westminster Abbey.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "France. Before Orleans",
+          "file": "Act_01/Scene 02 - France. Before Orleans.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "London. Before the Tower",
+          "file": "Act_01/Scene 03 - London. Before the Tower.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "Orleans",
+          "file": "Act_01/Scene 04 - Orleans.txt"
+        },
+        {
+          "scene_roman": "V",
+          "scene_num": 5,
+          "title": "Before Orleans",
+          "file": "Act_01/Scene 05 - Before Orleans.txt"
+        },
+        {
+          "scene_roman": "VI",
+          "scene_num": 6,
+          "title": "Orleans",
+          "file": "Act_01/Scene 06 - Orleans.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "dir": "Act_01",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "Westminster Abbey.",
+          "file": "Act_01/Scene 01 - Westminster Abbey.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "France. Before Orleans",
+          "file": "Act_01/Scene 02 - France. Before Orleans.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "London. Before the Tower.",
+          "file": "Act_01/Scene 03 - London. Before the Tower.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "Orleans.",
+          "file": "Act_01/Scene 04 - Orleans.txt"
+        },
+        {
+          "scene_roman": "V",
+          "scene_num": 5,
+          "title": "Before Orleans.",
+          "file": "Act_01/Scene 05 - Before Orleans.txt"
+        },
+        {
+          "scene_roman": "VI",
+          "scene_num": 6,
+          "title": "Orleans.",
+          "file": "Act_01/Scene 06 - Orleans.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "II",
+      "act_num": 2,
+      "dir": "Act_02",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "Before Orleans",
+          "file": "Act_02/Scene 01 - Before Orleans.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "Orleans. Within the town",
+          "file": "Act_02/Scene 02 - Orleans. Within the town.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "Auvergne. The Countess’s castle",
+          "file": "Act_02/Scene 03 - Auvergne. The Countesss castle.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "London. The Temple Garden",
+          "file": "Act_02/Scene 04 - London. The Temple Garden.txt"
+        },
+        {
+          "scene_roman": "V",
+          "scene_num": 5,
+          "title": "The Tower of London",
+          "file": "Act_02/Scene 05 - The Tower of London.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "II",
+      "act_num": 2,
+      "dir": "Act_02",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "Before Orleans.",
+          "file": "Act_02/Scene 01 - Before Orleans.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "Orleans. Within the town.",
+          "file": "Act_02/Scene 02 - Orleans. Within the town.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "Auvergne. The Countess’s castle.",
+          "file": "Act_02/Scene 03 - Auvergne. The Countesss castle.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "London. The Temple Garden.",
+          "file": "Act_02/Scene 04 - London. The Temple Garden.txt"
+        },
+        {
+          "scene_roman": "V",
+          "scene_num": 5,
+          "title": "The Tower of London.",
+          "file": "Act_02/Scene 05 - The Tower of London.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "III",
+      "act_num": 3,
+      "dir": "Act_03",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "London. The Parliament House",
+          "file": "Act_03/Scene 01 - London. The Parliament House.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "France. Before Rouen",
+          "file": "Act_03/Scene 02 - France. Before Rouen.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "The plains near Rouen",
+          "file": "Act_03/Scene 03 - The plains near Rouen.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "Paris. The Palace",
+          "file": "Act_03/Scene 04 - Paris. The Palace.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "III",
+      "act_num": 3,
+      "dir": "Act_03",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "London. The Parliament House.",
+          "file": "Act_03/Scene 01 - London. The Parliament House.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "France. Before Rouen.",
+          "file": "Act_03/Scene 02 - France. Before Rouen.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "The plains near Rouen.",
+          "file": "Act_03/Scene 03 - The plains near Rouen.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "Paris. The Palace.",
+          "file": "Act_03/Scene 04 - Paris. The Palace.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "dir": "Act_04",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "Paris. The Palace",
+          "file": "Act_04/Scene 01 - Paris. The Palace.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "Before Bordeaux",
+          "file": "Act_04/Scene 02 - Before Bordeaux.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "Plains in Gascony",
+          "file": "Act_04/Scene 03 - Plains in Gascony.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "Other plains in Gascony",
+          "file": "Act_04/Scene 04 - Other plains in Gascony.txt"
+        },
+        {
+          "scene_roman": "V",
+          "scene_num": 5,
+          "title": "The English camp near Bordeaux",
+          "file": "Act_04/Scene 05 - The English camp near Bordeaux.txt"
+        },
+        {
+          "scene_roman": "VI",
+          "scene_num": 6,
+          "title": "A field of battle",
+          "file": "Act_04/Scene 06 - A field of battle.txt"
+        },
+        {
+          "scene_roman": "VII",
+          "scene_num": 7,
+          "title": "Another part of the field",
+          "file": "Act_04/Scene 07 - Another part of the field.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "dir": "Act_04",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "Paris. The Palace.",
+          "file": "Act_04/Scene 01 - Paris. The Palace.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "Before Bordeaux.",
+          "file": "Act_04/Scene 02 - Before Bordeaux.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "Plains in Gascony.",
+          "file": "Act_04/Scene 03 - Plains in Gascony.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "Other plains in Gascony.",
+          "file": "Act_04/Scene 04 - Other plains in Gascony.txt"
+        },
+        {
+          "scene_roman": "V",
+          "scene_num": 5,
+          "title": "The English camp near Bordeaux.",
+          "file": "Act_04/Scene 05 - The English camp near Bordeaux.txt"
+        },
+        {
+          "scene_roman": "VI",
+          "scene_num": 6,
+          "title": "A field of battle.",
+          "file": "Act_04/Scene 06 - A field of battle.txt"
+        },
+        {
+          "scene_roman": "VII",
+          "scene_num": 7,
+          "title": "Another part of the field.",
+          "file": "Act_04/Scene 07 - Another part of the field.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "V",
+      "act_num": 5,
+      "dir": "Act_05",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "London. The Palace",
+          "file": "Act_05/Scene 01 - London. The Palace.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "France. Plains in Anjou",
+          "file": "Act_05/Scene 02 - France. Plains in Anjou.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "Before Angiers",
+          "file": "Act_05/Scene 03 - Before Angiers.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "Camp of the Duke of York in Anjou",
+          "file": "Act_05/Scene 04 - Camp of the Duke of York in Anjou.txt"
+        },
+        {
+          "scene_roman": "V",
+          "scene_num": 5,
+          "title": "London. The royal palace",
+          "file": "Act_05/Scene 05 - London. The royal palace.txt"
+        }
+      ]
+    },
+    {
+      "act_roman": "V",
+      "act_num": 5,
+      "dir": "Act_05",
+      "scenes": [
+        {
+          "scene_roman": "I",
+          "scene_num": 1,
+          "title": "London. The Palace.",
+          "file": "Act_05/Scene 01 - London. The Palace.txt"
+        },
+        {
+          "scene_roman": "II",
+          "scene_num": 2,
+          "title": "France. Plains in Anjou.",
+          "file": "Act_05/Scene 02 - France. Plains in Anjou.txt"
+        },
+        {
+          "scene_roman": "III",
+          "scene_num": 3,
+          "title": "Before Angiers.",
+          "file": "Act_05/Scene 03 - Before Angiers.txt"
+        },
+        {
+          "scene_roman": "IV",
+          "scene_num": 4,
+          "title": "Camp of the Duke of York in Anjou.",
+          "file": "Act_05/Scene 04 - Camp of the Duke of York in Anjou.txt"
+        },
+        {
+          "scene_roman": "V",
+          "scene_num": 5,
+          "title": "London. The royal palace.",
+          "file": "Act_05/Scene 05 - London. The royal palace.txt"
+        }
+      ]
+    }
+  ],
+  "total_scenes": 54,
+  "files": [
+    "00-Contents.txt",
+    "00-Dramatis_Personae.txt",
+    "00-Index.txt",
+    "README.txt"
+  ]
+}

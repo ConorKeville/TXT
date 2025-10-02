@@ -1,0 +1,29 @@
+Index — AS YOU LIKE IT (Regenerated)
+
+Total files: 25 (including this index)
+
+Order of files:
+ 1. Dramatis Personæ  [01_dramatis_personae.txt]
+ 2. Act I, Scene I — An Orchard near Oliver’s house  [02_act1_scene1.txt]
+ 3. Act I, Scene II — A Lawn before the Duke’s Palace  [03_act1_scene2.txt]
+ 4. Act I, Scene III — A Room in the Palace  [04_act1_scene3.txt]
+ 5. Act II, Scene I — The Forest of Arden  [05_act2_scene1.txt]
+ 6. Act II, Scene II — A Room in the Palace  [06_act2_scene2.txt]
+ 7. Act II, Scene III — Before Oliver’s House  [07_act2_scene3.txt]
+ 8. Act II, Scene IV — The Forest of Arden  [08_act2_scene4.txt]
+ 9. Act II, Scene V — Another part of the Forest  [09_act2_scene5.txt]
+10. Act II, Scene VI — Another part of the Forest  [10_act2_scene6.txt]
+11. Act II, Scene VII — Another part of the Forest  [11_act2_scene7.txt]
+12. Act III, Scene I — A Room in the Palace  [12_act3_scene1.txt]
+13. Act III, Scene II — The Forest of Arden  [13_act3_scene2.txt]
+14. Act III, Scene III — Another part of the Forest  [14_act3_scene3.txt]
+15. Act III, Scene IV — Another part of the Forest. Before a Cottage  [15_act3_scene4.txt]
+16. Act III, Scene V — Another part of the Forest  [16_act3_scene5.txt]
+17. Act IV, Scene I — The Forest of Arden  [17_act4_scene1.txt]
+18. Act IV, Scene II — Another part of the Forest  [18_act4_scene2.txt]
+19. Act IV, Scene III — Another part of the Forest  [19_act4_scene3.txt]
+20. Act V, Scene I — The Forest of Arden  [20_act5_scene1.txt]
+21. Act V, Scene II — Another part of the Forest  [21_act5_scene2.txt]
+22. Act V, Scene III — Another part of the Forest  [22_act5_scene3.txt]
+23. Act V, Scene IV — Another part of the Forest  [23_act5_scene4.txt]
+24. Epilogue  [24_epilogue.txt]

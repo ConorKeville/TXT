@@ -1,0 +1,36 @@
+CYMBELINE — split edition (scenes & special sections)
+
+Generated files:
+
+- 01_title_and_contents.txt — Title & Contents
+- 02_dramatis_personae.txt — Dramatis Personae
+- 03_setting.txt — Overall Scene/Setting
+- ACT_1_SCENE_01.txt — SCENE I. Britain. The garden of Cymbeline’s palace.
+- ACT_1_SCENE_02.txt — SCENE II. The same.
+- ACT_1_SCENE_03.txt — SCENE III. Britain. A public place.
+- ACT_1_SCENE_04.txt — SCENE IV. Britain. Cymbeline’s palace.
+- ACT_1_SCENE_05.txt — SCENE V. Rome. Philario’s house.
+- ACT_1_SCENE_06.txt — SCENE VI. Britain. Cymbeline’s palace.
+- ACT_1_SCENE_07.txt — SCENE VII. Britain. The palace.
+- ACT_2_SCENE_01.txt — SCENE I. Britain. Before Cymbeline’s palace.
+- ACT_2_SCENE_02.txt — SCENE II. Britain. Imogen’s bedchamber in Cymbeline’s palace; a trunk
+- ACT_2_SCENE_03.txt — SCENE III. Cymbeline’s palace. An ante-chamber adjoining Imogen’s
+- ACT_2_SCENE_04.txt — SCENE IV. Rome. Philario’s house.
+- ACT_2_SCENE_05.txt — SCENE V. Rome. Another room in Philario’s house.
+- ACT_3_SCENE_01.txt — SCENE I. Britain. A hall in Cymbeline’s palace.
+- ACT_3_SCENE_02.txt — SCENE II. Britain. Another room in Cymbeline’s palace.
+- ACT_3_SCENE_03.txt — SCENE III. Wales. A mountainous country with a cave.
+- ACT_3_SCENE_04.txt — SCENE IV. Wales, near Milford Haven.
+- ACT_3_SCENE_05.txt — SCENE V. Britain. Cymbeline’s palace.
+- ACT_3_SCENE_06.txt — SCENE VI. Wales. Before the cave of Belarius.
+- ACT_3_SCENE_07.txt — SCENE VII. The same.
+- ACT_3_SCENE_08.txt — SCENE VIII. Rome. A public place.
+- ACT_4_SCENE_01.txt — SCENE I. Wales. Near the cave of Belarius.
+- ACT_4_SCENE_02.txt — SCENE II. Wales. Before the cave of Belarius.
+- ACT_4_SCENE_03.txt — SCENE III. Britain. Cymbeline’s palace.
+- ACT_4_SCENE_04.txt — SCENE IV. Wales. Before the cave of Belarius.
+- ACT_5_SCENE_01.txt — SCENE I. Britain. The Roman camp.
+- ACT_5_SCENE_02.txt — SCENE II. Britain. A field of battle between the British and Roman
+- ACT_5_SCENE_03.txt — SCENE III. Another part of the field.
+- ACT_5_SCENE_04.txt — SCENE IV. Britain. A prison.
+- ACT_5_SCENE_05.txt — SCENE V. Britain. Cymbeline’s tent.

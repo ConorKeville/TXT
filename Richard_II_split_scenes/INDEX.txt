@@ -1,0 +1,33 @@
+THE LIFE AND DEATH OF KING RICHARD THE SECOND
+Split into per-scene TXT files.
+
+Special Sections:
+- Dramatis Personae: present
+- Prologue: not found
+- Chorus: not found
+- Epilogue: not found
+
+[Dramatis_Personae.txt] Dramatis Personae
+[Scene_List.txt] Scene list (as given in source)
+[Act01_Scene01.txt] ACT I, SCENE I. London. A Room in the palace.
+[Act01_Scene02.txt] ACT I, SCENE II. The same. A room in the Duke of Lancaster’s palace.
+[Act01_Scene03.txt] ACT I, SCENE III. Open Space, near Coventry. Lists set out, and a Throne.
+[Act01_Scene04.txt] ACT I, SCENE IV. London. A Room in the King’s Castle
+[Act02_Scene01.txt] ACT II, SCENE I. London. An Apartment in Ely House.
+[Act02_Scene02.txt] ACT II, SCENE II. The Same. A Room in the Castle.
+[Act02_Scene03.txt] ACT II, SCENE III. The Wolds in Gloucestershire.
+[Act02_Scene04.txt] ACT II, SCENE IV. A camp in Wales.
+[Act03_Scene01.txt] ACT III, SCENE I. Bristol. Bolingbroke’s camp.
+[Act03_Scene02.txt] ACT III, SCENE II. The coast of Wales. A castle in view.
+[Act03_Scene03.txt] ACT III, SCENE III. Wales. Before Flint Castle.
+[Act03_Scene04.txt] ACT III, SCENE IV. Langley. The Duke of York’s garden.
+[Act04_Scene01.txt] ACT IV, SCENE I. Westminster Hall.
+[Act05_Scene01.txt] ACT V, SCENE I. London. A street leading to the Tower.
+[Act05_Scene02.txt] ACT V, SCENE II. The same. A room in the Duke of York’s palace.
+[Act05_Scene03.txt] ACT V, SCENE III. Windsor. A room in the Castle.
+[Act05_Scene04.txt] ACT V, SCENE IV. Another room in the Castle.
+[Act05_Scene05.txt] ACT V, SCENE V. Pomfret. The dungeon of the Castle.
+[Act05_Scene06.txt] ACT V, SCENE VI. Windsor. An Apartment in the Castle.
+
+Total scenes: 19
+Files created: 22 (including this index)

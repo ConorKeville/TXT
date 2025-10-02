@@ -1,0 +1,28 @@
+Title: THE SECOND PART OF KING HENRY THE SIXTH
+
+Index of Scenes
+Act	Scene	Location	File
+I	I	London. The palace	Act_01/Act_01_Scene_01_London_The_palace.txt
+I	II	The Duke of Gloucester’s House	Act_01/Act_01_Scene_02_The_Duke_of_Gloucesters_House.txt
+I	III	London. The palace	Act_01/Act_01_Scene_03_London_The_palace.txt
+I	IV	Gloucester’s Garden	Act_01/Act_01_Scene_04_Gloucesters_Garden.txt
+II	I	Saint Albans	Act_02/Act_02_Scene_01_Saint_Albans.txt
+II	II	London. The Duke of York’s Garden	Act_02/Act_02_Scene_02_London_The_Duke_of_Yorks_Garden.txt
+II	III	A Hall of Justice	Act_02/Act_02_Scene_03_A_Hall_of_Justice.txt
+II	IV	A Street	Act_02/Act_02_Scene_04_A_Street.txt
+III	I	The Abbey at Bury St. Edmund’s	Act_03/Act_03_Scene_01_The_Abbey_at_Bury_St_Edmunds.txt
+III	II	Bury St. Edmund’s. A Room of State	Act_03/Act_03_Scene_02_Bury_St_Edmunds_A_Room_of_State.txt
+III	III	A Bedchamber	Act_03/Act_03_Scene_03_A_Bedchamber.txt
+IV	I	The Coast of Kent	Act_04/Act_04_Scene_01_The_Coast_of_Kent.txt
+IV	II	Blackheath	Act_04/Act_04_Scene_02_Blackheath.txt
+IV	III	Another part of Blackheath	Act_04/Act_04_Scene_03_Another_part_of_Blackheath.txt
+IV	IV	London. The Palace	Act_04/Act_04_Scene_04_London_The_Palace.txt
+IV	V	London. The Tower	Act_04/Act_04_Scene_05_London_The_Tower.txt
+IV	VI	London. Cannon Street	Act_04/Act_04_Scene_06_London_Cannon_Street.txt
+IV	VII	London. Smithfield	Act_04/Act_04_Scene_07_London_Smithfield.txt
+IV	VIII	Southwark	Act_04/Act_04_Scene_08_Southwark.txt
+IV	IX	Kenilworth Castle	Act_04/Act_04_Scene_09_Kenilworth_Castle.txt
+IV	X	Kent. Iden’s Garden	Act_04/Act_04_Scene_10_Kent_Idens_Garden.txt
+V	I	Fields between Dartford and Blackheath	Act_05/Act_05_Scene_01_Fields_between_Dartford_and_Blackheath.txt
+V	II	Saint Albans	Act_05/Act_05_Scene_02_Saint_Albans.txt
+V	III	Fields near Saint Albans	Act_05/Act_05_Scene_03_Fields_near_Saint_Albans.txt

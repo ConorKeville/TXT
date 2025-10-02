@@ -1,0 +1,209 @@
+[
+  {
+    "type": "special",
+    "title": "Dramatis Personae",
+    "filename": "dramatis-personae.txt"
+  },
+  {
+    "type": "special",
+    "title": "Prologue",
+    "filename": "prologue.txt"
+  },
+  {
+    "type": "scene",
+    "act": "I",
+    "scene": "I",
+    "title": "Athens. Before a temple",
+    "heading": "SCENE I. Athens. Before a temple",
+    "filename": "act-I_scene-I_athens-before-a-temple.txt"
+  },
+  {
+    "type": "scene",
+    "act": "I",
+    "scene": "II",
+    "title": "Thebes. The Court of the Palace",
+    "heading": "SCENE II. Thebes. The Court of the Palace",
+    "filename": "act-I_scene-II_thebes-the-court-of-the-palace.txt"
+  },
+  {
+    "type": "scene",
+    "act": "I",
+    "scene": "III",
+    "title": "Before the gates of Athens",
+    "heading": "SCENE III. Before the gates of Athens",
+    "filename": "act-I_scene-III_before-the-gates-of-athens.txt"
+  },
+  {
+    "type": "scene",
+    "act": "I",
+    "scene": "IV",
+    "title": "A field before Thebes.",
+    "heading": "SCENE IV. A field before Thebes.",
+    "filename": "act-I_scene-IV_a-field-before-thebes.txt"
+  },
+  {
+    "type": "scene",
+    "act": "I",
+    "scene": "V",
+    "title": "Another part of the same, more remote from Thebes",
+    "heading": "SCENE V. Another part of the same, more remote from Thebes",
+    "filename": "act-I_scene-V_another-part-of-the-same-more-remote-from-thebes.txt"
+  },
+  {
+    "type": "scene",
+    "act": "II",
+    "scene": "I",
+    "title": "Athens. A garden, with a castle in the background",
+    "heading": "SCENE I. Athens. A garden, with a castle in the background",
+    "filename": "act-II_scene-I_athens-a-garden-with-a-castle-in-the-background.txt"
+  },
+  {
+    "type": "scene",
+    "act": "II",
+    "scene": "II",
+    "title": "The prison",
+    "heading": "SCENE II. The prison",
+    "filename": "act-II_scene-II_the-prison.txt"
+  },
+  {
+    "type": "scene",
+    "act": "II",
+    "scene": "III",
+    "title": "The country near Athens",
+    "heading": "SCENE III. The country near Athens",
+    "filename": "act-II_scene-III_the-country-near-athens.txt"
+  },
+  {
+    "type": "scene",
+    "act": "II",
+    "scene": "IV",
+    "title": "Athens. A room in the prison",
+    "heading": "SCENE IV. Athens. A room in the prison",
+    "filename": "act-II_scene-IV_athens-a-room-in-the-prison.txt"
+  },
+  {
+    "type": "scene",
+    "act": "II",
+    "scene": "V",
+    "title": "An open place in Athens",
+    "heading": "SCENE V. An open place in Athens",
+    "filename": "act-II_scene-V_an-open-place-in-athens.txt"
+  },
+  {
+    "type": "scene",
+    "act": "II",
+    "scene": "VI",
+    "title": "Athens. Before the prison",
+    "heading": "SCENE VI. Athens. Before the prison",
+    "filename": "act-II_scene-VI_athens-before-the-prison.txt"
+  },
+  {
+    "type": "scene",
+    "act": "III",
+    "scene": "I",
+    "title": "A forest near Athens",
+    "heading": "SCENE I. A forest near Athens",
+    "filename": "act-III_scene-I_a-forest-near-athens.txt"
+  },
+  {
+    "type": "scene",
+    "act": "III",
+    "scene": "II",
+    "title": "Another Part of the forest",
+    "heading": "SCENE II. Another Part of the forest",
+    "filename": "act-III_scene-II_another-part-of-the-forest.txt"
+  },
+  {
+    "type": "scene",
+    "act": "III",
+    "scene": "III",
+    "title": "The same part of the forest as in scene I.",
+    "heading": "SCENE III. The same part of the forest as in scene I.",
+    "filename": "act-III_scene-III_the-same-part-of-the-forest-as-in-scene-i.txt"
+  },
+  {
+    "type": "scene",
+    "act": "III",
+    "scene": "IV",
+    "title": "Another part of the forest",
+    "heading": "SCENE IV. Another part of the forest",
+    "filename": "act-III_scene-IV_another-part-of-the-forest.txt"
+  },
+  {
+    "type": "scene",
+    "act": "III",
+    "scene": "V",
+    "title": "Another part of the forest",
+    "heading": "SCENE V. Another part of the forest",
+    "filename": "act-III_scene-V_another-part-of-the-forest.txt"
+  },
+  {
+    "type": "scene",
+    "act": "III",
+    "scene": "VI",
+    "title": "The same part of the forest as in scene III.",
+    "heading": "SCENE VI. The same part of the forest as in scene III.",
+    "filename": "act-III_scene-VI_the-same-part-of-the-forest-as-in-scene-iii.txt"
+  },
+  {
+    "type": "scene",
+    "act": "IV",
+    "scene": "I",
+    "title": "Athens. A room in the prison",
+    "heading": "SCENE I. Athens. A room in the prison",
+    "filename": "act-IV_scene-I_athens-a-room-in-the-prison.txt"
+  },
+  {
+    "type": "scene",
+    "act": "IV",
+    "scene": "II",
+    "title": "A Room in the Palace",
+    "heading": "SCENE II. A Room in the Palace",
+    "filename": "act-IV_scene-II_a-room-in-the-palace.txt"
+  },
+  {
+    "type": "scene",
+    "act": "IV",
+    "scene": "III",
+    "title": "A room in the prison",
+    "heading": "SCENE III. A room in the prison",
+    "filename": "act-IV_scene-III_a-room-in-the-prison.txt"
+  },
+  {
+    "type": "scene",
+    "act": "V",
+    "scene": "I",
+    "title": "Athens. Before the Temples of Mars, Venus, and Diana",
+    "heading": "SCENE I. Athens. Before the Temples of Mars, Venus, and Diana",
+    "filename": "act-V_scene-I_athens-before-the-temples-of-mars-venus-and-diana.txt"
+  },
+  {
+    "type": "scene",
+    "act": "V",
+    "scene": "II",
+    "title": "Athens. A Room in the Prison",
+    "heading": "SCENE II. Athens. A Room in the Prison",
+    "filename": "act-V_scene-II_athens-a-room-in-the-prison.txt"
+  },
+  {
+    "type": "scene",
+    "act": "V",
+    "scene": "III",
+    "title": "A part of the Forest near Athens, and near the Place",
+    "heading": "SCENE III. A part of the Forest near Athens, and near the Place",
+    "filename": "act-V_scene-III_a-part-of-the-forest-near-athens-and-near-the-place.txt"
+  },
+  {
+    "type": "scene",
+    "act": "V",
+    "scene": "IV",
+    "title": "The same; a Block prepared",
+    "heading": "SCENE IV. The same; a Block prepared",
+    "filename": "act-V_scene-IV_the-same-a-block-prepared.txt"
+  },
+  {
+    "type": "special",
+    "title": "Epilogue",
+    "filename": "epilogue.txt"
+  }
+]

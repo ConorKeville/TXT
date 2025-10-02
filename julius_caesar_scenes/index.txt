@@ -1,0 +1,33 @@
+Index — The Tragedy of Julius Caesar
+
+Special files:
+  - Dramatis Personae: dramatis-personae.txt
+
+Scenes:
+ACT I (Act 1)
+  - Scene I (Scene 1): Rome. A street.  ->  act-01-scene-01.txt
+  - Scene II (Scene 2): The same. A public place.  ->  act-01-scene-02.txt
+  - Scene III (Scene 3): The same. A street.  ->  act-01-scene-03.txt
+
+ACT II (Act 2)
+  - Scene I (Scene 1): Rome. Brutus’ orchard.  ->  act-02-scene-01.txt
+  - Scene II (Scene 2): A room in Caesar’s palace.  ->  act-02-scene-02.txt
+  - Scene III (Scene 3): A street near the Capitol.  ->  act-02-scene-03.txt
+  - Scene IV (Scene 4): Another part of the same street, before the house of Brutus.  ->  act-02-scene-04.txt
+
+ACT III (Act 3)
+  - Scene I (Scene 1): Rome. Before the Capitol; the Senate sitting.  ->  act-03-scene-01.txt
+  - Scene II (Scene 2): The same. The Forum.  ->  act-03-scene-02.txt
+  - Scene III (Scene 3): The same. A street.  ->  act-03-scene-03.txt
+
+ACT IV (Act 4)
+  - Scene I (Scene 1): Rome. A room in Antony’s house.  ->  act-04-scene-01.txt
+  - Scene II (Scene 2): Before Brutus’ tent, in the camp near Sardis.  ->  act-04-scene-02.txt
+  - Scene III (Scene 3): Within the tent of Brutus.  ->  act-04-scene-03.txt
+
+ACT V (Act 5)
+  - Scene I (Scene 1): The plains of Philippi.  ->  act-05-scene-01.txt
+  - Scene II (Scene 2): The same. The field of battle.  ->  act-05-scene-02.txt
+  - Scene III (Scene 3): Another part of the field.  ->  act-05-scene-03.txt
+  - Scene IV (Scene 4): Another part of the field.  ->  act-05-scene-04.txt
+  - Scene V (Scene 5): Another part of the field.  ->  act-05-scene-05.txt

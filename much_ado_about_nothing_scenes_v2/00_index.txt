@@ -1,0 +1,27 @@
+Much Ado About Nothing — Scene Files Index (Regenerated)
+Generated: 2025-10-01
+
+Package contents:
+  - 01_dramatis_personae.txt — Dramatis Personae
+  - 02_setting.txt — Setting
+  - 03_act1_scene1_before_leonatos_house.txt — Act I, Scene I: Before Leonato’s House.
+  - 04_act1_scene2_a_room_in_leonatos_house.txt — Act I, Scene II: A room in Leonato’s house.
+  - 05_act1_scene3_another_room_in_leonatos_house.txt — Act I, Scene III: Another room in Leonato’s house.
+  - 06_act2_scene1_a_hall_in_leonatos_house.txt — Act II, Scene I: A hall in Leonato’s house.
+  - 07_act2_scene2_another_room_in_leonatos_house.txt — Act II, Scene II: Another room in Leonato’s house.
+  - 08_act2_scene3_leonatos_garden.txt — Act II, Scene III: Leonato’s Garden.
+  - 09_act3_scene1_leonatos_garden.txt — Act III, Scene I: Leonato’s Garden.
+  - 10_act3_scene2_a_room_in_leonatos_house.txt — Act III, Scene II: A Room in Leonato’s House.
+  - 11_act3_scene3_a_street.txt — Act III, Scene III: A Street.
+  - 12_act3_scene4_a_room_in_leonatos_house.txt — Act III, Scene IV: A Room in Leonato’s House.
+  - 13_act3_scene5_another_room_in_leonatos_house.txt — Act III, Scene V: Another Room in Leonato’s House.
+  - 14_act4_scene1_the_inside_of_a_church.txt — Act IV, Scene I: The Inside of a Church.
+  - 15_act4_scene2_a_prison.txt — Act IV, Scene II: A Prison.
+  - 16_act5_scene1_before_leonatos_house.txt — Act V, Scene I: Before Leonato’s House.
+  - 17_act5_scene2_leonatos_garden.txt — Act V, Scene II: Leonato’s Garden.
+  - 18_act5_scene3_the_inside_of_a_church.txt — Act V, Scene III: The Inside of a Church.
+  - 19_act5_scene4_a_room_in_leonatos_house.txt — Act V, Scene IV: A Room in Leonato’s House.
+
+Notes:
+  • Source text provided by the user; scene divisions and titles come from the document’s own headings.
+  • Any Prologue/Epilogue/Chorus would appear as separate files if present in the source.

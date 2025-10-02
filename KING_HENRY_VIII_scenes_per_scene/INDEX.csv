@@ -1,0 +1,20 @@
+order,type,act_rom,act_int,scene_rom,scene_int,title,filename,words,lines
+1,frontmatter,,,,,,01_Dramatis_Personae.txt,2,3
+2,frontmatter,,,,,,02_Prologue.txt,271,38
+3,scene,I,1,I,1,London. An ante-chamber in the palace.,03_ACT_I_1_SCENE_I_1__London_An_ante-chamber_in_the_palace.txt,1988,401
+4,scene,I,1,II,2,The same. The council-chamber.,04_ACT_I_1_SCENE_II_2__The_same_The_council-chamber.txt,1864,353
+5,scene,I,1,III,3,An ante-chamber in the palace.,05_ACT_I_1_SCENE_III_3__An_ante-chamber_in_the_palace.txt,625,141
+6,scene,I,1,IV,4,A Hall in York Place.,06_ACT_I_1_SCENE_IV_4__A_Hall_in_York_Place.txt,1108,273
+7,scene,II,2,I,1,Westminster. A street.,07_ACT_II_2_SCENE_I_1__Westminster_A_street.txt,1563,294
+8,scene,II,2,II,2,An ante-chamber in the palace.,08_ACT_II_2_SCENE_II_2__An_ante-chamber_in_the_palace.txt,1339,282
+9,scene,II,2,III,3,An ante-chamber of the Queen’s apartments.,09_ACT_II_2_SCENE_III_3__An_ante-chamber_of_the_Queens_apartments.txt,954,200
+10,scene,II,2,IV,4,A hall in Blackfriars.,10_ACT_II_2_SCENE_IV_4__A_hall_in_Blackfriars.txt,2172,350
+11,scene,III,3,I,1,London. The Queen’s apartments.,11_ACT_III_3_SCENE_I_1__London_The_Queens_apartments.txt,1601,290
+12,scene,III,3,II,2,Ante-chamber to the King’s apartment.,12_ACT_III_3_SCENE_II_2__Ante-chamber_to_the_Kings_apartment.txt,4011,791
+13,scene,IV,4,I,1,A street in Westminster.,13_ACT_IV_4_SCENE_I_1__A_street_in_Westminster.txt,1325,274
+14,scene,IV,4,II,2,Kimbolton.,14_ACT_IV_4_SCENE_II_2__Kimbolton.txt,1675,314
+15,scene,V,5,I,1,A gallery in the palace.,15_ACT_V_5_SCENE_I_1__A_gallery_in_the_palace.txt,1607,342
+16,scene,V,5,II,2,Lobby before the council-chamber.,16_ACT_V_5_SCENE_II_2__Lobby_before_the_council-chamber.txt,2005,414
+17,scene,V,5,III,3,The palace yard.,17_ACT_V_5_SCENE_III_3__The_palace_yard.txt,845,131
+18,scene,V,5,IV,4,The palace.,18_ACT_V_5_SCENE_IV_4__The_palace.txt,763,122
+19,backmatter,,,,,,19_Epilogue.txt,125,21

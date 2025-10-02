@@ -1,0 +1,29 @@
+THE MERCHANT OF VENICE
+Split by acts and scenes. One file per scene; frontmatter provided.
+
+Act I • Scene I — Venice. A street.
+Act I • Scene II — Belmont. A room in Portia’s house.
+Act I • Scene III — Venice. A public place.
+Act II • Scene I — Belmont. A room in Portia’s house.
+Act II • Scene II — Venice. A street.
+Act II • Scene III — Venice. A room in Shylock’s house.
+Act II • Scene IV — Venice. A street.
+Act II • Scene V — Venice. Before Shylock’s house.
+Act II • Scene VI — Venice.
+Act II • Scene VII — Belmont. A room in Portia’s house.
+Act II • Scene VIII — Venice. A street.
+Act II • Scene IX — Belmont. A room in Portia’s house.
+Act III • Scene I — Venice. A street.
+Act III • Scene II — Belmont. A room in Portia’s house.
+Act III • Scene III — Venice. A street.
+Act III • Scene IV — Belmont. A room in Portia’s house.
+Act III • Scene V — Belmont. A garden.
+Act IV • Scene I — Venice. A court of justice.
+Act IV • Scene II — Venice. A street.
+Act V • Scene I — Belmont. The avenue to Portia’s house.
+
+Notes
+-----
+- Special sections included: Dramatis Personae and the original Contents list.
+- This play contains no Chorus, Prologue, or Epilogue; none were found in the source.
+- Scene headings that read “The same.” have been expanded to include the prior scene’s primary location (e.g., Venice, Belmont) in the index and filenames.

@@ -1,0 +1,23 @@
+Shakespeare — KING HENRY VIII (Strict Scene Split)
+
+Files included (in reading order):
+
+   1. Dramatis Personae  ->  01_Dramatis_Personae.txt
+   2. Prologue  ->  02_Prologue.txt
+   3. Act I (#1), Scene I (#1) — London. An ante-chamber in the palace.  ->  03_ACT_I_1_SCENE_I_1__London_An_ante-chamber_in_the_palace.txt
+   4. Act I (#1), Scene II (#2) — The same. The council-chamber.  ->  04_ACT_I_1_SCENE_II_2__The_same_The_council-chamber.txt
+   5. Act I (#1), Scene III (#3) — An ante-chamber in the palace.  ->  05_ACT_I_1_SCENE_III_3__An_ante-chamber_in_the_palace.txt
+   6. Act I (#1), Scene IV (#4) — A Hall in York Place.  ->  06_ACT_I_1_SCENE_IV_4__A_Hall_in_York_Place.txt
+   7. Act II (#2), Scene I (#1) — Westminster. A street.  ->  07_ACT_II_2_SCENE_I_1__Westminster_A_street.txt
+   8. Act II (#2), Scene II (#2) — An ante-chamber in the palace.  ->  08_ACT_II_2_SCENE_II_2__An_ante-chamber_in_the_palace.txt
+   9. Act II (#2), Scene III (#3) — An ante-chamber of the Queen’s apartments.  ->  09_ACT_II_2_SCENE_III_3__An_ante-chamber_of_the_Queens_apartments.txt
+  10. Act II (#2), Scene IV (#4) — A hall in Blackfriars.  ->  10_ACT_II_2_SCENE_IV_4__A_hall_in_Blackfriars.txt
+  11. Act III (#3), Scene I (#1) — London. The Queen’s apartments.  ->  11_ACT_III_3_SCENE_I_1__London_The_Queens_apartments.txt
+  12. Act III (#3), Scene II (#2) — Ante-chamber to the King’s apartment.  ->  12_ACT_III_3_SCENE_II_2__Ante-chamber_to_the_Kings_apartment.txt
+  13. Act IV (#4), Scene I (#1) — A street in Westminster.  ->  13_ACT_IV_4_SCENE_I_1__A_street_in_Westminster.txt
+  14. Act IV (#4), Scene II (#2) — Kimbolton.  ->  14_ACT_IV_4_SCENE_II_2__Kimbolton.txt
+  15. Act V (#5), Scene I (#1) — A gallery in the palace.  ->  15_ACT_V_5_SCENE_I_1__A_gallery_in_the_palace.txt
+  16. Act V (#5), Scene II (#2) — Lobby before the council-chamber.  ->  16_ACT_V_5_SCENE_II_2__Lobby_before_the_council-chamber.txt
+  17. Act V (#5), Scene III (#3) — The palace yard.  ->  17_ACT_V_5_SCENE_III_3__The_palace_yard.txt
+  18. Act V (#5), Scene IV (#4) — The palace.  ->  18_ACT_V_5_SCENE_IV_4__The_palace.txt
+  19. Epilogue  ->  19_Epilogue.txt

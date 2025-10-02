@@ -1,0 +1,241 @@
+{
+  "title": "THE TRAGEDY OF CORIOLANUS",
+  "special_files": [
+    "01_TABLE_OF_CONTENTS.txt",
+    "02_DRAMATIS_PERSONAE.txt"
+  ],
+  "scenes": [
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "I",
+      "scene_num": 1,
+      "title": "Rome. A street",
+      "file": "ACT_I_SCENE_I - Rome. A street.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "II",
+      "scene_num": 2,
+      "title": "Corioles. The Senate House",
+      "file": "ACT_I_SCENE_II - Corioles. The Senate House.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "III",
+      "scene_num": 3,
+      "title": "Rome. An apartment in Martius’ house",
+      "file": "ACT_I_SCENE_III - Rome. An apartment in Martius’ house.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "IV",
+      "scene_num": 4,
+      "title": "Before Corioles",
+      "file": "ACT_I_SCENE_IV - Before Corioles.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "V",
+      "scene_num": 5,
+      "title": "Within Corioles. A street",
+      "file": "ACT_I_SCENE_V - Within Corioles. A street.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "VI",
+      "scene_num": 6,
+      "title": "Near the camp of Cominius",
+      "file": "ACT_I_SCENE_VI - Near the camp of Cominius.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "VII",
+      "scene_num": 7,
+      "title": "The gates of Corioles",
+      "file": "ACT_I_SCENE_VII - The gates of Corioles.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "VIII",
+      "scene_num": 8,
+      "title": "A field of battle between the Roman and the Volscian camps",
+      "file": "ACT_I_SCENE_VIII - A field of battle between the Roman and the Volscian camps.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "IX",
+      "scene_num": 9,
+      "title": "The Roman camp",
+      "file": "ACT_I_SCENE_IX - The Roman camp.txt"
+    },
+    {
+      "act_roman": "I",
+      "act_num": 1,
+      "scene_roman": "X",
+      "scene_num": 10,
+      "title": "The camp of the Volsces",
+      "file": "ACT_I_SCENE_X - The camp of the Volsces.txt"
+    },
+    {
+      "act_roman": "II",
+      "act_num": 2,
+      "scene_roman": "I",
+      "scene_num": 1,
+      "title": "Rome. A public place",
+      "file": "ACT_II_SCENE_I - Rome. A public place.txt"
+    },
+    {
+      "act_roman": "II",
+      "act_num": 2,
+      "scene_roman": "II",
+      "scene_num": 2,
+      "title": "Rome. The Capitol",
+      "file": "ACT_II_SCENE_II - Rome. The Capitol.txt"
+    },
+    {
+      "act_roman": "II",
+      "act_num": 2,
+      "scene_roman": "III",
+      "scene_num": 3,
+      "title": "Rome. The Forum",
+      "file": "ACT_II_SCENE_III - Rome. The Forum.txt"
+    },
+    {
+      "act_roman": "III",
+      "act_num": 3,
+      "scene_roman": "I",
+      "scene_num": 1,
+      "title": "Rome. A street",
+      "file": "ACT_III_SCENE_I - Rome. A street.txt"
+    },
+    {
+      "act_roman": "III",
+      "act_num": 3,
+      "scene_roman": "II",
+      "scene_num": 2,
+      "title": "Rome. A room in Coriolanus’s house",
+      "file": "ACT_III_SCENE_II - Rome. A room in Coriolanus’s house.txt"
+    },
+    {
+      "act_roman": "III",
+      "act_num": 3,
+      "scene_roman": "III",
+      "scene_num": 3,
+      "title": "Rome. The Forum",
+      "file": "ACT_III_SCENE_III - Rome. The Forum.txt"
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "scene_roman": "I",
+      "scene_num": 1,
+      "title": "Rome. Before a gate of the city",
+      "file": "ACT_IV_SCENE_I - Rome. Before a gate of the city.txt"
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "scene_roman": "II",
+      "scene_num": 2,
+      "title": "Rome. A street near the gate",
+      "file": "ACT_IV_SCENE_II - Rome. A street near the gate.txt"
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "scene_roman": "III",
+      "scene_num": 3,
+      "title": "A highway between Rome and Antium",
+      "file": "ACT_IV_SCENE_III - A highway between Rome and Antium.txt"
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "scene_roman": "IV",
+      "scene_num": 4,
+      "title": "Antium. Before Aufidius’s house",
+      "file": "ACT_IV_SCENE_IV - Antium. Before Aufidius’s house.txt"
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "scene_roman": "V",
+      "scene_num": 5,
+      "title": "Antium. A hall in Aufidius’s house",
+      "file": "ACT_IV_SCENE_V - Antium. A hall in Aufidius’s house.txt"
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "scene_roman": "VI",
+      "scene_num": 6,
+      "title": "Rome. A public place",
+      "file": "ACT_IV_SCENE_VI - Rome. A public place.txt"
+    },
+    {
+      "act_roman": "IV",
+      "act_num": 4,
+      "scene_roman": "VII",
+      "scene_num": 7,
+      "title": "A camp at a short distance from Rome",
+      "file": "ACT_IV_SCENE_VII - A camp at a short distance from Rome.txt"
+    },
+    {
+      "act_roman": "V",
+      "act_num": 5,
+      "scene_roman": "I",
+      "scene_num": 1,
+      "title": "Rome. A public place",
+      "file": "ACT_V_SCENE_I - Rome. A public place.txt"
+    },
+    {
+      "act_roman": "V",
+      "act_num": 5,
+      "scene_roman": "II",
+      "scene_num": 2,
+      "title": "An Advanced post of the Volscian camp before Rome.",
+      "file": "ACT_V_SCENE_II - An Advanced post of the Volscian camp before Rome.txt"
+    },
+    {
+      "act_roman": "V",
+      "act_num": 5,
+      "scene_roman": "III",
+      "scene_num": 3,
+      "title": "The tent of Coriolanus",
+      "file": "ACT_V_SCENE_III - The tent of Coriolanus.txt"
+    },
+    {
+      "act_roman": "V",
+      "act_num": 5,
+      "scene_roman": "IV",
+      "scene_num": 4,
+      "title": "Rome. A public place",
+      "file": "ACT_V_SCENE_IV - Rome. A public place.txt"
+    },
+    {
+      "act_roman": "V",
+      "act_num": 5,
+      "scene_roman": "V",
+      "scene_num": 5,
+      "title": "Rome. A street near the gate",
+      "file": "ACT_V_SCENE_V - Rome. A street near the gate.txt"
+    },
+    {
+      "act_roman": "V",
+      "act_num": 5,
+      "scene_roman": "VI",
+      "scene_num": 6,
+      "title": "Antium. A public place",
+      "file": "ACT_V_SCENE_VI - Antium. A public place.txt"
+    }
+  ]
+}

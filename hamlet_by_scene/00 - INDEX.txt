@@ -1,0 +1,34 @@
+HAMLET — SCENE INDEX
+
+Special files:
+  - 01 - Dramatis Personae.txt
+  - 02 - Setting.txt
+
+Scenes:
+  01 - Dramatis Personae.txt
+  02 - Setting.txt
+  03 - Act 1 - Scene 1 - Elsinore. A platform before the Castle.txt
+  04 - Act 1 - Scene 2 - Elsinore. A room of state in the Castle.txt
+  05 - Act 1 - Scene 3 - A room in Polonius’s house.txt
+  06 - Act 1 - Scene 4 - The platform.txt
+  07 - Act 1 - Scene 5 - A more remote part of the Castle.txt
+  08 - Act 2 - Scene 1 - A room in Polonius’s house.txt
+  09 - Act 2 - Scene 2 - A room in the Castle.txt
+  10 - Act 3 - Scene 1 - A room in the Castle.txt
+  11 - Act 3 - Scene 2 - A hall in the Castle.txt
+  12 - Act 3 - Scene 3 - A room in the Castle.txt
+  13 - Act 3 - Scene 4 - Another room in the Castle.txt
+  14 - Act 4 - Scene 1 - A room in the Castle.txt
+  15 - Act 4 - Scene 2 - Another room in the Castle.txt
+  16 - Act 4 - Scene 3 - Another room in the Castle.txt
+  17 - Act 4 - Scene 4 - A plain in Denmark.txt
+  18 - Act 4 - Scene 5 - Elsinore. A room in the Castle.txt
+  19 - Act 4 - Scene 6 - Another room in the Castle.txt
+  20 - Act 4 - Scene 7 - Another room in the Castle.txt
+  21 - Act 5 - Scene 1 - A churchyard.txt
+  22 - Act 5 - Scene 2 - A hall in the Castle.txt
+
+Notes:
+  • This edition contains no Chorus, Prologue, or Epilogue sections.
+  • Scene files retain their original stage directions and typography.
+  • Filenames are prefixed numerically to preserve reading order.

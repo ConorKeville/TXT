@@ -1,0 +1,39 @@
+THE TRAGEDY OF MACBETH — Scene Index
+
+Notes:
+- Source text was partitioned into one TXT per scene.
+- Special sections (Title/Contents, Dramatis Personae, Setting) are included.
+- No Prologue, Chorus, or Epilogue are present in this edition.
+
+Files (in reading order):
+
+- 01_Title_and_Contents.txt — Front Matter: Title & Contents
+- 02_Dramatis_Personae.txt — Dramatis Personae
+- Act_01_Scene_01.txt — Act I, SCENE I. An open Place.
+- Act_01_Scene_02.txt — Act I, SCENE II. A Camp near Forres.
+- Act_01_Scene_03.txt — Act I, SCENE III. A heath.
+- Act_01_Scene_04.txt — Act I, SCENE IV. Forres. A Room in the Palace.
+- Act_01_Scene_05.txt — Act I, SCENE V. Inverness. A Room in Macbeth’s Castle.
+- Act_01_Scene_06.txt — Act I, SCENE VI. The same. Before the Castle.
+- Act_01_Scene_07.txt — Act I, SCENE VII. The same. A Lobby in the Castle.
+- Act_02_Scene_01.txt — Act II, SCENE I. Inverness. Court within the Castle.
+- Act_02_Scene_02.txt — Act II, SCENE II. The same.
+- Act_02_Scene_03.txt — Act II, SCENE III. The same.
+- Act_02_Scene_04.txt — Act II, SCENE IV. The same. Without the Castle.
+- Act_03_Scene_01.txt — Act III, SCENE I. Forres. A Room in the Palace.
+- Act_03_Scene_02.txt — Act III, SCENE II. The same. Another Room in the Palace.
+- Act_03_Scene_03.txt — Act III, SCENE III. The same. A Park or Lawn, with a gate leading to the Palace.
+- Act_03_Scene_04.txt — Act III, SCENE IV. The same. A Room of state in the Palace.
+- Act_03_Scene_05.txt — Act III, SCENE V. The heath.
+- Act_03_Scene_06.txt — Act III, SCENE VI. Forres. A Room in the Palace.
+- Act_04_Scene_01.txt — Act IV, SCENE I. A dark Cave. In the middle, a Cauldron Boiling.
+- Act_04_Scene_02.txt — Act IV, SCENE II. Fife. A Room in Macduff’s Castle.
+- Act_04_Scene_03.txt — Act IV, SCENE III. England. Before the King’s Palace.
+- Act_05_Scene_01.txt — Act V, SCENE I. Dunsinane. A Room in the Castle.
+- Act_05_Scene_02.txt — Act V, SCENE II. The Country near Dunsinane.
+- Act_05_Scene_03.txt — Act V, SCENE III. Dunsinane. A Room in the Castle.
+- Act_05_Scene_04.txt — Act V, SCENE IV. Country near Dunsinane: a Wood in view.
+- Act_05_Scene_05.txt — Act V, SCENE V. Dunsinane. Within the castle.
+- Act_05_Scene_06.txt — Act V, SCENE VI. The same. A Plain before the Castle.
+- Act_05_Scene_07.txt — Act V, SCENE VII. The same. Another part of the Plain.
+- Act_05_Scene_08.txt — Act V, SCENE VIII. The same. Another part of the field.

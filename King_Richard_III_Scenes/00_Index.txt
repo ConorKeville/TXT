@@ -1,0 +1,31 @@
+KING RICHARD III — Scene Index
+
+Files are ordered for reading.
+
+01_Dramatis_Personae.txt  |  Dramatis Personae
+02_Setting.txt  |  Setting
+Act_01_Scene_01.txt  |  Act 1 Scene 1 — SCENE I. London. A street
+Act_01_Scene_02.txt  |  Act 1 Scene 2 — SCENE II. London. Another street
+Act_01_Scene_03.txt  |  Act 1 Scene 3 — SCENE III. London. A Room in the Palace
+Act_01_Scene_04.txt  |  Act 1 Scene 4 — SCENE IV. London. A Room in the Tower
+Act_02_Scene_01.txt  |  Act 2 Scene 1 — SCENE I. London. A Room in the palace
+Act_02_Scene_02.txt  |  Act 2 Scene 2 — SCENE II. Another Room in the palace
+Act_02_Scene_03.txt  |  Act 2 Scene 3 — SCENE III. London. A street
+Act_02_Scene_04.txt  |  Act 2 Scene 4 — SCENE IV. London. A Room in the Palace
+Act_03_Scene_01.txt  |  Act 3 Scene 1 — SCENE I. London. A street
+Act_03_Scene_02.txt  |  Act 3 Scene 2 — SCENE II. Before Lord Hastings’ house
+Act_03_Scene_03.txt  |  Act 3 Scene 3 — SCENE III. Pomfret. Before the Castle
+Act_03_Scene_04.txt  |  Act 3 Scene 4 — SCENE IV. London. A Room in the Tower
+Act_03_Scene_05.txt  |  Act 3 Scene 5 — SCENE V. London. The Tower Walls
+Act_03_Scene_06.txt  |  Act 3 Scene 6 — SCENE VI. London. A street
+Act_03_Scene_07.txt  |  Act 3 Scene 7 — SCENE VII. London. Court of Baynard’s Castle
+Act_04_Scene_01.txt  |  Act 4 Scene 1 — SCENE I. London. Before the Tower
+Act_04_Scene_02.txt  |  Act 4 Scene 2 — SCENE II. London. A Room of State in the Palace
+Act_04_Scene_03.txt  |  Act 4 Scene 3 — SCENE III. London. Another Room in the Palace
+Act_04_Scene_04.txt  |  Act 4 Scene 4 — SCENE IV. London. Before the Palace
+Act_04_Scene_05.txt  |  Act 4 Scene 5 — SCENE V. A Room in Lord Stanley’s house
+Act_05_Scene_01.txt  |  Act 5 Scene 1 — SCENE I. Salisbury. An open place
+Act_05_Scene_02.txt  |  Act 5 Scene 2 — SCENE II. Plain near Tamworth
+Act_05_Scene_03.txt  |  Act 5 Scene 3 — SCENE III. Bosworth Field
+Act_05_Scene_04.txt  |  Act 5 Scene 4 — SCENE IV. Another part of the Field
+Act_05_Scene_05.txt  |  Act 5 Scene 5 — SCENE V. Another part of the Field

@@ -1,0 +1,84 @@
+The First Part of Henry the Sixth
+
+Index
+=====
+
+- 00-Contents.txt
+- 00-Dramatis_Personae.txt
+- README.txt
+
+ACT I (Act 1)  [Act_01/]
+  • Scene I (1): Westminster Abbey -> Act_01/Scene 01 - Westminster Abbey.txt
+  • Scene II (2): France. Before Orleans -> Act_01/Scene 02 - France. Before Orleans.txt
+  • Scene III (3): London. Before the Tower -> Act_01/Scene 03 - London. Before the Tower.txt
+  • Scene IV (4): Orleans -> Act_01/Scene 04 - Orleans.txt
+  • Scene V (5): Before Orleans -> Act_01/Scene 05 - Before Orleans.txt
+  • Scene VI (6): Orleans -> Act_01/Scene 06 - Orleans.txt
+
+ACT I (Act 1)  [Act_01/]
+  • Scene I (1): Westminster Abbey. -> Act_01/Scene 01 - Westminster Abbey.txt
+  • Scene II (2): France. Before Orleans -> Act_01/Scene 02 - France. Before Orleans.txt
+  • Scene III (3): London. Before the Tower. -> Act_01/Scene 03 - London. Before the Tower.txt
+  • Scene IV (4): Orleans. -> Act_01/Scene 04 - Orleans.txt
+  • Scene V (5): Before Orleans. -> Act_01/Scene 05 - Before Orleans.txt
+  • Scene VI (6): Orleans. -> Act_01/Scene 06 - Orleans.txt
+
+ACT II (Act 2)  [Act_02/]
+  • Scene I (1): Before Orleans -> Act_02/Scene 01 - Before Orleans.txt
+  • Scene II (2): Orleans. Within the town -> Act_02/Scene 02 - Orleans. Within the town.txt
+  • Scene III (3): Auvergne. The Countess’s castle -> Act_02/Scene 03 - Auvergne. The Countesss castle.txt
+  • Scene IV (4): London. The Temple Garden -> Act_02/Scene 04 - London. The Temple Garden.txt
+  • Scene V (5): The Tower of London -> Act_02/Scene 05 - The Tower of London.txt
+
+ACT II (Act 2)  [Act_02/]
+  • Scene I (1): Before Orleans. -> Act_02/Scene 01 - Before Orleans.txt
+  • Scene II (2): Orleans. Within the town. -> Act_02/Scene 02 - Orleans. Within the town.txt
+  • Scene III (3): Auvergne. The Countess’s castle. -> Act_02/Scene 03 - Auvergne. The Countesss castle.txt
+  • Scene IV (4): London. The Temple Garden. -> Act_02/Scene 04 - London. The Temple Garden.txt
+  • Scene V (5): The Tower of London. -> Act_02/Scene 05 - The Tower of London.txt
+
+ACT III (Act 3)  [Act_03/]
+  • Scene I (1): London. The Parliament House -> Act_03/Scene 01 - London. The Parliament House.txt
+  • Scene II (2): France. Before Rouen -> Act_03/Scene 02 - France. Before Rouen.txt
+  • Scene III (3): The plains near Rouen -> Act_03/Scene 03 - The plains near Rouen.txt
+  • Scene IV (4): Paris. The Palace -> Act_03/Scene 04 - Paris. The Palace.txt
+
+ACT III (Act 3)  [Act_03/]
+  • Scene I (1): London. The Parliament House. -> Act_03/Scene 01 - London. The Parliament House.txt
+  • Scene II (2): France. Before Rouen. -> Act_03/Scene 02 - France. Before Rouen.txt
+  • Scene III (3): The plains near Rouen. -> Act_03/Scene 03 - The plains near Rouen.txt
+  • Scene IV (4): Paris. The Palace. -> Act_03/Scene 04 - Paris. The Palace.txt
+
+ACT IV (Act 4)  [Act_04/]
+  • Scene I (1): Paris. The Palace -> Act_04/Scene 01 - Paris. The Palace.txt
+  • Scene II (2): Before Bordeaux -> Act_04/Scene 02 - Before Bordeaux.txt
+  • Scene III (3): Plains in Gascony -> Act_04/Scene 03 - Plains in Gascony.txt
+  • Scene IV (4): Other plains in Gascony -> Act_04/Scene 04 - Other plains in Gascony.txt
+  • Scene V (5): The English camp near Bordeaux -> Act_04/Scene 05 - The English camp near Bordeaux.txt
+  • Scene VI (6): A field of battle -> Act_04/Scene 06 - A field of battle.txt
+  • Scene VII (7): Another part of the field -> Act_04/Scene 07 - Another part of the field.txt
+
+ACT IV (Act 4)  [Act_04/]
+  • Scene I (1): Paris. The Palace. -> Act_04/Scene 01 - Paris. The Palace.txt
+  • Scene II (2): Before Bordeaux. -> Act_04/Scene 02 - Before Bordeaux.txt
+  • Scene III (3): Plains in Gascony. -> Act_04/Scene 03 - Plains in Gascony.txt
+  • Scene IV (4): Other plains in Gascony. -> Act_04/Scene 04 - Other plains in Gascony.txt
+  • Scene V (5): The English camp near Bordeaux. -> Act_04/Scene 05 - The English camp near Bordeaux.txt
+  • Scene VI (6): A field of battle. -> Act_04/Scene 06 - A field of battle.txt
+  • Scene VII (7): Another part of the field. -> Act_04/Scene 07 - Another part of the field.txt
+
+ACT V (Act 5)  [Act_05/]
+  • Scene I (1): London. The Palace -> Act_05/Scene 01 - London. The Palace.txt
+  • Scene II (2): France. Plains in Anjou -> Act_05/Scene 02 - France. Plains in Anjou.txt
+  • Scene III (3): Before Angiers -> Act_05/Scene 03 - Before Angiers.txt
+  • Scene IV (4): Camp of the Duke of York in Anjou -> Act_05/Scene 04 - Camp of the Duke of York in Anjou.txt
+  • Scene V (5): London. The royal palace -> Act_05/Scene 05 - London. The royal palace.txt
+
+ACT V (Act 5)  [Act_05/]
+  • Scene I (1): London. The Palace. -> Act_05/Scene 01 - London. The Palace.txt
+  • Scene II (2): France. Plains in Anjou. -> Act_05/Scene 02 - France. Plains in Anjou.txt
+  • Scene III (3): Before Angiers. -> Act_05/Scene 03 - Before Angiers.txt
+  • Scene IV (4): Camp of the Duke of York in Anjou. -> Act_05/Scene 04 - Camp of the Duke of York in Anjou.txt
+  • Scene V (5): London. The royal palace. -> Act_05/Scene 05 - London. The royal palace.txt
+
+Total Scenes: 54

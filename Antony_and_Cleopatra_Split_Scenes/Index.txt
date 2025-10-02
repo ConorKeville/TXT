@@ -1,0 +1,56 @@
+THE TRAGEDY OF ANTONY AND CLEOPATRA — Scene Index
+
+Special:
+  - Dramatis Personae -> Dramatis_Personae.txt
+
+ACT I
+  Scene I: Alexandria. A Room in Cleopatra’s palace  ->  Act_I_Scene_I_Alexandria_A_Room_in_Cleopatras_palace.txt
+  Scene II: Alexandria. Another Room in Cleopatra’s palace  ->  Act_I_Scene_II_Alexandria_Another_Room_in_Cleopatras_palace.txt
+  Scene III: Alexandria. A Room in Cleopatra’s palace  ->  Act_I_Scene_III_Alexandria_A_Room_in_Cleopatras_palace.txt
+  Scene IV: Rome. An Apartment in Caesar’s House  ->  Act_I_Scene_IV_Rome_An_Apartment_in_Caesars_House.txt
+  Scene V: Alexandria. A Room in the Palace  ->  Act_I_Scene_V_Alexandria_A_Room_in_the_Palace.txt
+
+ACT V
+  Scene I: Caesar’s Camp before Alexandria  ->  Act_V_Scene_I_Caesars_Camp_before_Alexandria.txt
+  Scene II: Alexandria. A Room in the Monument  ->  Act_V_Scene_II_Alexandria_A_Room_in_the_Monument.txt
+
+ACT II
+  Scene I: Messina. A Room in Pompey’s house  ->  Act_II_Scene_I_Messina_A_Room_in_Pompeys_house.txt
+  Scene II: Rome. A Room in the House of Lepidus  ->  Act_II_Scene_II_Rome_A_Room_in_the_House_of_Lepidus.txt
+  Scene III: Rome. A Room in Caesar’s House  ->  Act_II_Scene_III_Rome_A_Room_in_Caesars_House.txt
+  Scene IV: Rome. A street  ->  Act_II_Scene_IV_Rome_A_street.txt
+  Scene V: Alexandria. A Room in the Palace  ->  Act_II_Scene_V_Alexandria_A_Room_in_the_Palace.txt
+  Scene VI: Near Misenum  ->  Act_II_Scene_VI_Near_Misenum.txt
+  Scene VII: On board Pompey’s Galley, lying near Misenum  ->  Act_II_Scene_VII_On_board_Pompeys_Galley_lying_near_Misenum.txt
+
+ACT III
+  Scene I: A plain in Syria  ->  Act_III_Scene_I_A_plain_in_Syria.txt
+  Scene II: Rome. An Ante-chamber in Caesar’s house  ->  Act_III_Scene_II_Rome_An_Ante_chamber_in_Caesars_house.txt
+  Scene III: Alexandria. A Room in the Palace  ->  Act_III_Scene_III_Alexandria_A_Room_in_the_Palace.txt
+  Scene IV: Athens. A Room in Antony’s House  ->  Act_III_Scene_IV_Athens_A_Room_in_Antonys_House.txt
+  Scene V: Athens. Another Room in Antony’s House  ->  Act_III_Scene_V_Athens_Another_Room_in_Antonys_House.txt
+  Scene VI: Rome. A Room in Caesar’s House  ->  Act_III_Scene_VI_Rome_A_Room_in_Caesars_House.txt
+  Scene VII: Antony’s Camp near the Promontory of Actium  ->  Act_III_Scene_VII_Antonys_Camp_near_the_Promontory_of_Actium.txt
+  Scene VIII: A plain near Actium  ->  Act_III_Scene_VIII_A_plain_near_Actium.txt
+  Scene IX: Another part of the Plain  ->  Act_III_Scene_IX_Another_part_of_the_Plain.txt
+  Scene X: Another part of the Plain  ->  Act_III_Scene_X_Another_part_of_the_Plain.txt
+  Scene XI: Alexandria. A Room in the Palace  ->  Act_III_Scene_XI_Alexandria_A_Room_in_the_Palace.txt
+  Scene XII: Caesar’s camp in Egypt  ->  Act_III_Scene_XII_Caesars_camp_in_Egypt.txt
+  Scene XIII: Alexandria. A Room in the Palace  ->  Act_III_Scene_XIII_Alexandria_A_Room_in_the_Palace.txt
+
+ACT IV
+  Scene I: Caesar’s Camp at Alexandria  ->  Act_IV_Scene_I_Caesars_Camp_at_Alexandria.txt
+  Scene II: Alexandria. A Room in the Palace  ->  Act_IV_Scene_II_Alexandria_A_Room_in_the_Palace.txt
+  Scene III: Alexandria. Before the Palace  ->  Act_IV_Scene_III_Alexandria_Before_the_Palace.txt
+  Scene IV: Alexandria. A Room in the Palace  ->  Act_IV_Scene_IV_Alexandria_A_Room_in_the_Palace.txt
+  Scene V: Antony’s camp near Alexandria  ->  Act_IV_Scene_V_Antonys_camp_near_Alexandria.txt
+  Scene VI: Alexandria. Caesar’s camp  ->  Act_IV_Scene_VI_Alexandria_Caesars_camp.txt
+  Scene VII: Field of battle between the Camps  ->  Act_IV_Scene_VII_Field_of_battle_between_the_Camps.txt
+  Scene VIII: Under the Walls of Alexandria  ->  Act_IV_Scene_VIII_Under_the_Walls_of_Alexandria.txt
+  Scene IX: Caesar’s camp  ->  Act_IV_Scene_IX_Caesars_camp.txt
+  Scene X: Ground between the two Camps  ->  Act_IV_Scene_X_Ground_between_the_two_Camps.txt
+  Scene XI: Another part of the Ground  ->  Act_IV_Scene_XI_Another_part_of_the_Ground.txt
+  Scene XII: Another part of the Ground  ->  Act_IV_Scene_XII_Another_part_of_the_Ground.txt
+  Scene XIII: Alexandria. A Room in the Palace  ->  Act_IV_Scene_XIII_Alexandria_A_Room_in_the_Palace.txt
+  Scene XIV: Alexandria. Another Room  ->  Act_IV_Scene_XIV_Alexandria_Another_Room.txt
+  Scene XV: Alexandria. A monument  ->  Act_IV_Scene_XV_Alexandria_A_monument.txt

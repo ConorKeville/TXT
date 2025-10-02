@@ -1,0 +1,40 @@
+THE TRAGEDY OF KING LEAR — Scene Files Index
+Source file: THE TRAGEDY OF KING LEAR.txt
+
+Special section: Dramatis Personae -> 01_dramatis_personae.txt
+
+ACT I (1)
+  Scene I (1): A Room of State in King Lear’s Palace  ->  act01_scene01.txt
+  Scene II (2): A Hall in the Earl of Gloucester’s Castle  ->  act01_scene02.txt
+  Scene III (3): A Room in the Duke of Albany’s Palace  ->  act01_scene03.txt
+  Scene IV (4): A Hall in Albany’s Palace  ->  act01_scene04.txt
+  Scene V (5): Court before the Duke of Albany’s Palace  ->  act01_scene05.txt
+
+ACT II (2)
+  Scene I (1): A court within the Castle of the Earl of Gloucester  ->  act02_scene01.txt
+  Scene II (2): Before Gloucester’s Castle  ->  act02_scene02.txt
+  Scene III (3): The open Country  ->  act02_scene03.txt
+  Scene IV (4): Before Gloucester’s Castle; Kent in the stocks  ->  act02_scene04.txt
+
+ACT III (3)
+  Scene I (1): A Heath  ->  act03_scene01.txt
+  Scene II (2): Another part of the heath  ->  act03_scene02.txt
+  Scene III (3): A Room in Gloucester’s Castle  ->  act03_scene03.txt
+  Scene IV (4): A part of the Heath with a Hovel  ->  act03_scene04.txt
+  Scene V (5): A Room in Gloucester’s Castle  ->  act03_scene05.txt
+  Scene VI (6): A Chamber in a Farmhouse adjoining the Castle  ->  act03_scene06.txt
+  Scene VII (7): A Room in Gloucester’s Castle  ->  act03_scene07.txt
+
+ACT IV (4)
+  Scene I (1): The heath  ->  act04_scene01.txt
+  Scene II (2): Before the Duke of Albany’s Palace  ->  act04_scene02.txt
+  Scene III (3): The French camp near Dover  ->  act04_scene03.txt
+  Scene IV (4): The French camp. A Tent  ->  act04_scene04.txt
+  Scene V (5): A Room in Gloucester’s Castle  ->  act04_scene05.txt
+  Scene VI (6): The country near Dover  ->  act04_scene06.txt
+  Scene VII (7): A Tent in the French Camp  ->  act04_scene07.txt
+
+ACT V (5)
+  Scene I (1): The Camp of the British Forces near Dover  ->  act05_scene01.txt
+  Scene II (2): A field between the two Camps  ->  act05_scene02.txt
+  Scene III (3): The British Camp near Dover  ->  act05_scene03.txt

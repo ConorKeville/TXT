@@ -1,0 +1,42 @@
+TROILUS AND CRESSIDA — Scene Index
+
+Total scenes: 24
+
+Special sections:
+  - Dramatis Personae  →  dramatis-personae.txt
+  - Setting  →  setting.txt
+  - Prologue  →  prologue.txt
+
+Act I:
+  - Scene I — Troy. Before Priam’s palace.  →  act-01-scene-01-troy-before-priams-palace.txt
+  - Scene II — Troy. A street.  →  act-01-scene-02-troy-a-street.txt
+  - Scene III — The Grecian camp. Before Agamemnon’s tent.  →  act-01-scene-03-the-grecian-camp-before-agamemnons-tent.txt
+
+Act II:
+  - Scene I — The Grecian camp.  →  act-02-scene-01-the-grecian-camp.txt
+  - Scene II — Troy. Priam’s palace.  →  act-02-scene-02-troy-priams-palace.txt
+  - Scene III — The Grecian camp. Before the tent of Achilles.  →  act-02-scene-03-the-grecian-camp-before-the-tent-of-achilles.txt
+
+Act III:
+  - Scene I — Troy. Priam’s palace.  →  act-03-scene-01-troy-priams-palace.txt
+  - Scene II — Troy. Pandarus’ orchard.  →  act-03-scene-02-troy-pandarus-orchard.txt
+  - Scene III — The Greek camp.  →  act-03-scene-03-the-greek-camp.txt
+
+Act IV:
+  - Scene I — Troy. A street.  →  act-04-scene-01-troy-a-street.txt
+  - Scene II — Troy. The court of Pandarus’ house.  →  act-04-scene-02-troy-the-court-of-pandarus-house.txt
+  - Scene III — Troy. A street before Pandarus’ house.  →  act-04-scene-03-troy-a-street-before-pandarus-house.txt
+  - Scene IV — Troy. Pandarus’ house.  →  act-04-scene-04-troy-pandarus-house.txt
+  - Scene V — The Grecian camp. Lists set out.  →  act-04-scene-05-the-grecian-camp-lists-set-out.txt
+
+Act V:
+  - Scene I — The Grecian camp. Before the tent of Achilles.  →  act-05-scene-01-the-grecian-camp-before-the-tent-of-achilles.txt
+  - Scene II — The Grecian camp. Before Calchas’ tent.  →  act-05-scene-02-the-grecian-camp-before-calchas-tent.txt
+  - Scene III — Troy. Before Priam’s palace.  →  act-05-scene-03-troy-before-priams-palace.txt
+  - Scene IV — The plain between Troy and the Grecian camp.  →  act-05-scene-04-the-plain-between-troy-and-the-grecian-camp.txt
+  - Scene V — Another part of the plain.  →  act-05-scene-05-another-part-of-the-plain.txt
+  - Scene VI — Another part of the plain.  →  act-05-scene-06-another-part-of-the-plain.txt
+  - Scene VII — Another part of the plain.  →  act-05-scene-07-another-part-of-the-plain.txt
+  - Scene VIII — Another part of the plain.  →  act-05-scene-08-another-part-of-the-plain.txt
+  - Scene IX — Another part of the plain.  →  act-05-scene-09-another-part-of-the-plain.txt
+  - Scene X — Another part of the plain.  →  act-05-scene-10-another-part-of-the-plain.txt
