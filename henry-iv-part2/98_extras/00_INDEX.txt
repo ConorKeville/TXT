@@ -1,0 +1,24 @@
+THE SECOND PART OF KING HENRY THE FOURTH — File Index
+
+01. Dramatis Personae (incl. general setting) — 01_Dramatis_Personae.txt
+02. Induction — Warkworth. Before the castle. — 02_Induction.txt
+03. Act I, Scene I — The same. — 03_ActI_SceneI.txt
+04. Act I, Scene II — London. A street. — 04_ActI_SceneII.txt
+05. Act I, Scene III — York. The Archbishop’s palace. — 05_ActI_SceneIII.txt
+06. Act II, Scene I — London. A street. — 06_ActII_SceneI.txt
+07. Act II, Scene II — London. Another street. — 07_ActII_SceneII.txt
+08. Act II, Scene III — Warkworth. Before the castle. — 08_ActII_SceneIII.txt
+09. Act II, Scene IV — London. The Boar’s head Tavern in Eastcheap. — 09_ActII_SceneIV.txt
+10. Act III, Scene I — Westminster. The palace. — 10_ActIII_SceneI.txt
+11. Act III, Scene II — Gloucestershire. Before Justice Shallow’s house. — 11_ActIII_SceneII.txt
+12. Act IV, Scene I — Yorkshire. Gaultree Forest. — 12_ActIV_SceneI.txt
+13. Act IV, Scene II — Another part of the forest. — 13_ActIV_SceneII.txt
+14. Act IV, Scene III — Another part of the forest. — 14_ActIV_SceneIII.txt
+15. Act IV, Scene IV — Westminster. The Jerusalem Chamber. — 15_ActIV_SceneIV.txt
+16. Act IV, Scene V — Another chamber. — 16_ActIV_SceneV.txt
+17. Act V, Scene I — Gloucestershire. Shallow’s house. — 17_ActV_SceneI.txt
+18. Act V, Scene II — Westminster. The palace. — 18_ActV_SceneII.txt
+19. Act V, Scene III — Gloucestershire. Shallow’s orchard. — 19_ActV_SceneIII.txt
+20. Act V, Scene IV — London. A street. — 20_ActV_SceneIV.txt
+21. Act V, Scene V — A public place near Westminster Abbey. — 21_ActV_SceneV.txt
+22. Epilogue — 22_Epilogue.txt

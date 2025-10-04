@@ -1,0 +1,31 @@
+THE TRAGEDY OF TITUS ANDRONICUS
+
+Index
+=====
+
+Special sections present: Dramatis Personae, Setting
+Special sections not present in this play: Prologue, Chorus, Epilogue
+
+Files
+-----
+
+- 00_Dramatis_Personae.txt
+- 00_Setting.txt
+
+Scenes
+------
+
+- Act 1 ( I ), Scene 1 ( I ): SCENE I. Rome. Before the Capitol  -->  Act01_Scene01_Rome_Before_the_Capitol.txt  [4140 words]
+- Act 2 ( II ), Scene 1 ( I ): SCENE I. Rome. Before the palace  -->  Act02_Scene01_Rome_Before_the_palace.txt  [1091 words]
+- Act 2 ( II ), Scene 2 ( II ): SCENE II. A Forest near Rome; a Lodge seen at a distance. Horns and cry  -->  Act02_Scene02_A_Forest_near_Rome_a_Lodge_seen_at_a_distance_Horns_and_cry.txt  [281 words]
+- Act 2 ( II ), Scene 3 ( III ): SCENE III. A lonely part of the Forest  -->  Act02_Scene03_A_lonely_part_of_the_Forest.txt  [2577 words]
+- Act 2 ( II ), Scene 4 ( IV ): SCENE IV. Another part of the Forest  -->  Act02_Scene04_Another_part_of_the_Forest.txt  [526 words]
+- Act 3 ( III ), Scene 1 ( I ): SCENE I. Rome. A street  -->  Act03_Scene01_Rome_A_street.txt  [2597 words]
+- Act 3 ( III ), Scene 2 ( II ): SCENE II. Rome. A Room in Titus’s House. A banquet set out  -->  Act03_Scene02_Rome_A_Room_in_Titus_s_House_A_banquet_set_out.txt  [730 words]
+- Act 4 ( IV ), Scene 1 ( I ): SCENE I. Rome. Before Titus’s House  -->  Act04_Scene01_Rome_Before_Titus_s_House.txt  [1149 words]
+- Act 4 ( IV ), Scene 2 ( II ): SCENE II. Rome. A Room in the Palace  -->  Act04_Scene02_Rome_A_Room_in_the_Palace.txt  [1573 words]
+- Act 4 ( IV ), Scene 3 ( III ): SCENE III. Rome. A public Place  -->  Act04_Scene03_Rome_A_public_Place.txt  [1031 words]
+- Act 4 ( IV ), Scene 4 ( IV ): SCENE IV. Rome. Before the Palace  -->  Act04_Scene04_Rome_Before_the_Palace.txt  [927 words]
+- Act 5 ( V ), Scene 1 ( I ): SCENE I. Plains near Rome  -->  Act05_Scene01_Plains_near_Rome.txt  [1410 words]
+- Act 5 ( V ), Scene 2 ( II ): SCENE II. Rome. Before Titus’s House  -->  Act05_Scene02_Rome_Before_Titus_s_House.txt  [1757 words]
+- Act 5 ( V ), Scene 3 ( III ): SCENE III. Rome. A Pavilion in Titus’s Gardens, with tables, &c.  -->  Act05_Scene03_Rome_A_Pavilion_in_Titus_s_Gardens_with_tables_c.txt  [1701 words]

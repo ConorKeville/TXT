@@ -1,0 +1,23 @@
+MEASURE FOR MEASURE — Index
+
+Special files:
+  • Dramatis Personae — 00_Dramatis_Personae.txt
+
+Scenes:
+  01. Act I, Scene I — An apartment in the Duke’s palace. — 01_Act_I_Scene_I_An_apartment_in_the_Dukes_palace.txt
+  02. Act I, Scene II — A street. — 02_Act_I_Scene_II_A_street.txt
+  03. Act I, Scene III — A monastery. — 03_Act_I_Scene_III_A_monastery.txt
+  04. Act I, Scene IV — A nunnery. — 04_Act_I_Scene_IV_A_nunnery.txt
+  05. Act II, Scene I — A hall in Angelo’s house. — 05_Act_II_Scene_I_A_hall_in_Angelos_house.txt
+  06. Act II, Scene II — Another room in the same. — 06_Act_II_Scene_II_Another_room_in_the_same.txt
+  07. Act II, Scene III — A room in a prison. — 07_Act_II_Scene_III_A_room_in_a_prison.txt
+  08. Act II, Scene IV — A room in Angelo’s house. — 08_Act_II_Scene_IV_A_room_in_Angelos_house.txt
+  09. Act III, Scene I — A room in the prison. — 09_Act_III_Scene_I_A_room_in_the_prison.txt
+  10. Act III, Scene II — The street before the prison. — 10_Act_III_Scene_II_The_street_before_the_prison.txt
+  11. Act IV, Scene I — A room in Mariana’s house. — 11_Act_IV_Scene_I_A_room_in_Marianas_house.txt
+  12. Act IV, Scene II — A room in the prison. — 12_Act_IV_Scene_II_A_room_in_the_prison.txt
+  13. Act IV, Scene III — Another room in the same. — 13_Act_IV_Scene_III_Another_room_in_the_same.txt
+  14. Act IV, Scene IV — A room in Angelo’s house. — 14_Act_IV_Scene_IV_A_room_in_Angelos_house.txt
+  15. Act IV, Scene V — Fields without the town. — 15_Act_IV_Scene_V_Fields_without_the_town.txt
+  16. Act IV, Scene VI — Street near the city gate. — 16_Act_IV_Scene_VI_Street_near_the_city_gate.txt
+  17. Act V, Scene I — A public place near the city gate. — 17_Act_V_Scene_I_A_public_place_near_the_city_gate.txt

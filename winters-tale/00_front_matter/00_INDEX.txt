@@ -1,0 +1,24 @@
+THE WINTER’S TALE — Scene Index
+
+• Dramatis Personae — Dramatis_Personae.txt
+
+Act I
+  - Scene I: Sicilia. An Antechamber in Leontes’ Palace. — Act_01/Scene_01.txt
+  - Scene II: The same. A Room of State in the Palace. — Act_01/Scene_02.txt
+Act II
+  - Scene I: Sicilia. A Room in the Palace. — Act_02/Scene_01.txt
+  - Scene II: The same. The outer Room of a Prison. — Act_02/Scene_02.txt
+  - Scene III: The same. A Room in the Palace. — Act_02/Scene_03.txt
+Act III
+  - Scene I: Sicilia. A Street in some Town. — Act_03/Scene_01.txt
+  - Scene II: The same. A Court of Justice. — Act_03/Scene_02.txt
+  - Scene III: Bohemia. A desert Country near the Sea. — Act_03/Scene_03.txt
+Act IV
+  - Prologue — Act_04/Prologue.txt
+  - Scene II: Bohemia. A Room in the palace of Polixenes. — Act_04/Scene_02.txt
+  - Scene III: The same. A Road near the Shepherd’s cottage. — Act_04/Scene_03.txt
+  - Scene IV: The same. A Shepherd’s Cottage. — Act_04/Scene_04.txt
+Act V
+  - Scene I: Sicilia. A Room in the palace of Leontes. — Act_05/Scene_01.txt
+  - Scene II: The same. Before the Palace. — Act_05/Scene_02.txt
+  - Scene III: The same. A Room in Paulina’s house. — Act_05/Scene_03.txt

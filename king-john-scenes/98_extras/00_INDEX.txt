@@ -1,0 +1,22 @@
+THE LIFE AND DEATH OF KING JOHN
+
+Special sections:
+  - 01_DRAMATIS_PERSONAE.txt — Dramatis Personae and setting
+
+Scenes:
+  - 02_ACT_I_SCENE_I.txt: Act I, Scene I — Northampton. A Room of State in the Palace.
+  - 03_ACT_II_SCENE_I.txt: Act II, Scene I — France. Before the walls of Angiers.
+  - 04_ACT_III_SCENE_I.txt: Act III, Scene I — France. The French King’s tent.
+  - 05_ACT_III_SCENE_II.txt: Act III, Scene II — The same. Plains near Angiers
+  - 06_ACT_III_SCENE_III.txt: Act III, Scene III — The same.
+  - 07_ACT_III_SCENE_IV.txt: Act III, Scene IV — The same. The French King’s tent.
+  - 08_ACT_IV_SCENE_I.txt: Act IV, Scene I — Northampton. A Room in the Castle.
+  - 09_ACT_IV_SCENE_II.txt: Act IV, Scene II — The same. A Room of State in the Palace.
+  - 10_ACT_IV_SCENE_III.txt: Act IV, Scene III — The same. Before the castle.
+  - 11_ACT_V_SCENE_I.txt: Act V, Scene I — Northampton. A Room in the Palace.
+  - 12_ACT_V_SCENE_II.txt: Act V, Scene II — Near Saint Edmundsbury. The French Camp.
+  - 13_ACT_V_SCENE_III.txt: Act V, Scene III — The same. The Field of Battle.
+  - 14_ACT_V_SCENE_IV.txt: Act V, Scene IV — The same. Another part of the same.
+  - 15_ACT_V_SCENE_V.txt: Act V, Scene V — The same. The French camp.
+  - 16_ACT_V_SCENE_VI.txt: Act V, Scene VI — An open place in the neighborhood of Swinstead Abbey.
+  - 17_ACT_V_SCENE_VII.txt: Act V, Scene VII — The orchard of Swinstead Abbey.

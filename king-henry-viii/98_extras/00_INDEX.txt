@@ -1,0 +1,24 @@
+KING HENRY THE EIGHTH — Index
+
+Special sections:
+  - 01_DRAMATIS_PERSONAE.txt — Dramatis Personae and setting
+  - 02_PROLOGUE.txt — Prologue
+  - 19_EPILOGUE.txt — Epilogue
+
+Scenes:
+  - 03_ACT_I_SCENE_I.txt: Act I, Scene I — London. An ante-chamber in the palace.
+  - 04_ACT_I_SCENE_II.txt: Act I, Scene II — The same. The council-chamber.
+  - 05_ACT_I_SCENE_III.txt: Act I, Scene III — An ante-chamber in the palace.
+  - 06_ACT_I_SCENE_IV.txt: Act I, Scene IV — A Hall in York Place.
+  - 07_ACT_II_SCENE_I.txt: Act II, Scene I — Westminster. A street.
+  - 08_ACT_II_SCENE_II.txt: Act II, Scene II — An ante-chamber in the palace.
+  - 09_ACT_II_SCENE_III.txt: Act II, Scene III — An ante-chamber of the Queen’s apartments.
+  - 10_ACT_II_SCENE_IV.txt: Act II, Scene IV — A hall in Blackfriars.
+  - 11_ACT_III_SCENE_I.txt: Act III, Scene I — London. The Queen’s apartments.
+  - 12_ACT_III_SCENE_II.txt: Act III, Scene II — Ante-chamber to the King’s apartment.
+  - 13_ACT_IV_SCENE_I.txt: Act IV, Scene I — A street in Westminster.
+  - 14_ACT_IV_SCENE_II.txt: Act IV, Scene II — Kimbolton.
+  - 15_ACT_V_SCENE_I.txt: Act V, Scene I — A gallery in the palace.
+  - 16_ACT_V_SCENE_II.txt: Act V, Scene II — Lobby before the council-chamber.
+  - 17_ACT_V_SCENE_III.txt: Act V, Scene III — The palace yard.
+  - 18_ACT_V_SCENE_IV.txt: Act V, Scene IV — The palace.

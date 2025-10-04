@@ -1,0 +1,55 @@
+THE FIRST PART OF KING HENRY THE FOURTH
+
+CONTENTS (from source):
+Contents
+
+ACT I
+Scene I. London. A Room in the Palace.
+Scene II. The same. An Apartment of Prince Henry’s.
+Scene III. The Same. A Room in the Palace.
+
+ACT II
+Scene I. Rochester. An Inn-Yard.
+Scene II. The Road by Gads-hill.
+Scene III. Warkworth. A Room in the Castle.
+Scene IV. Eastcheap. A Room in the Boar’s Head Tavern.
+
+ACT III
+Scene I. Bangor. A Room in the Archdeacon’s House.
+Scene II. London. A Room in the Palace.
+Scene III. Eastcheap. A Room in the Boar’s Head Tavern.
+
+ACT IV
+Scene I. The Rebel Camp near Shrewsbury.
+Scene II. A public Road near Coventry.
+Scene III. The Rebel Camp near Shrewsbury.
+Scene IV. York. A Room in the Archbishop’s Palace.
+
+ACT V
+Scene I. The King’s Camp near Shrewsbury.
+Scene II. The Rebel Camp.
+Scene III. Plain between the Camps.
+Scene IV. Another Part of the Field.
+Scene V. Another Part of the Field.
+
+01_Dramatis_Personae.txt     — Dramatis Personae
+02_Scene_Setting.txt         — Scene setting / locales
+03_Act_01_Scene_01.txt       — ACT I — Scene I: London. A Room in the Palace.
+04_Act_01_Scene_02.txt       — ACT I — Scene II: The same. An Apartment of Prince Henry’s.
+05_Act_01_Scene_03.txt       — ACT I — Scene III: The Same. A Room in the Palace.
+06_Act_02_Scene_01.txt       — ACT II — Scene I: Rochester. An Inn-Yard.
+07_Act_02_Scene_02.txt       — ACT II — Scene II: The Road by Gads-hill.
+08_Act_02_Scene_03.txt       — ACT II — Scene III: Warkworth. A Room in the Castle.
+09_Act_02_Scene_04.txt       — ACT II — Scene IV: Eastcheap. A Room in the Boar’s Head Tavern.
+10_Act_03_Scene_01.txt       — ACT III — Scene I: Bangor. A Room in the Archdeacon’s House.
+11_Act_03_Scene_02.txt       — ACT III — Scene II: London. A Room in the Palace.
+12_Act_03_Scene_03.txt       — ACT III — Scene III: Eastcheap. A Room in the Boar’s Head Tavern.
+13_Act_04_Scene_01.txt       — ACT IV — Scene I: The Rebel Camp near Shrewsbury.
+14_Act_04_Scene_02.txt       — ACT IV — Scene II: A public Road near Coventry.
+15_Act_04_Scene_03.txt       — ACT IV — Scene III: The Rebel Camp near Shrewsbury.
+16_Act_04_Scene_04.txt       — ACT IV — Scene IV: York. A Room in the Archbishop’s Palace.
+17_Act_05_Scene_01.txt       — ACT V — Scene I: The King’s Camp near Shrewsbury.
+18_Act_05_Scene_02.txt       — ACT V — Scene II: The Rebel Camp.
+19_Act_05_Scene_03.txt       — ACT V — Scene III: Plain between the Camps.
+20_Act_05_Scene_04.txt       — ACT V — Scene IV: Another Part of the Field.
+21_Act_05_Scene_05.txt       — ACT V — Scene V: Another Part of the Field.

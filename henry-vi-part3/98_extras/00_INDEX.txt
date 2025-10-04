@@ -1,0 +1,43 @@
+THE THIRD PART OF KING HENRY THE SIXTH
+======================================
+
+- Dramatis Personae -> Dramatis_Personae.txt
+
+Act I
+-----
+  • Scene I: London. The Parliament House -> Act_01_Scene_01_London_The_Parliament_House.txt
+  • Scene II: Sandal Castle -> Act_01_Scene_02_Sandal_Castle.txt
+  • Scene III: Plains near Sandal Castle -> Act_01_Scene_03_Plains_near_Sandal_Castle.txt
+  • Scene IV: The Same -> Act_01_Scene_04_The_Same.txt
+Act II
+------
+  • Scene I: A plain near Mortimer’s Cross in Herefordshire -> Act_02_Scene_01_A_plain_near_Mortimers_Cross_in_Herefordshire.txt
+  • Scene II: Before York -> Act_02_Scene_02_Before_York.txt
+  • Scene III: A field of battle between Towton and Saxton, in Yorkshire -> Act_02_Scene_03_A_field_of_battle_between_Towton_and_Saxton_in_Yorkshire.txt
+  • Scene IV: Another Part of the Field -> Act_02_Scene_04_Another_Part_of_the_Field.txt
+  • Scene V: Another Part of the Field -> Act_02_Scene_05_Another_Part_of_the_Field.txt
+  • Scene VI: Another Part of the Field -> Act_02_Scene_06_Another_Part_of_the_Field.txt
+Act III
+-------
+  • Scene I: A Forest in the North of England -> Act_03_Scene_01_A_Forest_in_the_North_of_England.txt
+  • Scene II: The Palace -> Act_03_Scene_02_The_Palace.txt
+  • Scene III: France. The King’s Palace -> Act_03_Scene_03_France_The_Kings_Palace.txt
+Act IV
+------
+  • Scene I: London. The Palace -> Act_04_Scene_01_London_The_Palace.txt
+  • Scene II: A Plain in Warwickshire -> Act_04_Scene_02_A_Plain_in_Warwickshire.txt
+  • Scene III: Edward’s Camp near Warwick -> Act_04_Scene_03_Edwards_Camp_near_Warwick.txt
+  • Scene IV: London. The Palace -> Act_04_Scene_04_London_The_Palace.txt
+  • Scene V: A park near Middleham Castle in Yorkshire -> Act_04_Scene_05_A_park_near_Middleham_Castle_in_Yorkshire.txt
+  • Scene VI: London. The Tower -> Act_04_Scene_06_London_The_Tower.txt
+  • Scene VII: Before York -> Act_04_Scene_07_Before_York.txt
+  • Scene VIII: London. The Palace -> Act_04_Scene_08_London_The_Palace.txt
+Act V
+-----
+  • Scene I: Coventry -> Act_05_Scene_01_Coventry.txt
+  • Scene II: A Field of Battle near Barnet -> Act_05_Scene_02_A_Field_of_Battle_near_Barnet.txt
+  • Scene III: Another Part of the Field -> Act_05_Scene_03_Another_Part_of_the_Field.txt
+  • Scene IV: Plains near Tewkesbury -> Act_05_Scene_04_Plains_near_Tewkesbury.txt
+  • Scene V: Another part of the Field -> Act_05_Scene_05_Another_part_of_the_Field.txt
+  • Scene VI: London. The Tower -> Act_05_Scene_06_London_The_Tower.txt
+  • Scene VII: London. The Palace -> Act_05_Scene_07_London_The_Palace.txt

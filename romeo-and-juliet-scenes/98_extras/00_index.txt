@@ -1,0 +1,31 @@
+Index — The Tragedy of Romeo and Juliet
+
+Dramatis Personae -> 01_Dramatis Personae.txt
+Prologue -> 02_Prologue.txt
+Act II Chorus -> 03_Act II - Chorus.txt
+Act V Chorus -> 04_Act V - Chorus.txt
+Act I, Scene I — A public place. -> 05_Act I - Scene I - A public place..txt
+Act I, Scene II — A Street. -> 06_Act I - Scene II - A Street..txt
+Act I, Scene III — Room in Capulet’s House. -> 07_Act I - Scene III - Room in Capulet’s House..txt
+Act I, Scene IV — A Street. -> 08_Act I - Scene IV - A Street..txt
+Act I, Scene V — A Hall in Capulet’s House. -> 09_Act I - Scene V - A Hall in Capulet’s House..txt
+Act II Chorus -> 10_Act II - Chorus.txt
+Act II, Scene I — An open place adjoining Capulet’s Garden. -> 11_Act II - Scene I - An open place adjoining Capulet’s Garden..txt
+Act II, Scene II — Capulet’s Garden. -> 12_Act II - Scene II - Capulet’s Garden..txt
+Act II, Scene III — Friar Lawrence’s Cell. -> 13_Act II - Scene III - Friar Lawrence’s Cell..txt
+Act II, Scene IV — A Street. -> 14_Act II - Scene IV - A Street..txt
+Act II, Scene V — Capulet’s Garden. -> 15_Act II - Scene V - Capulet’s Garden..txt
+Act II, Scene VI — Friar Lawrence’s Cell. -> 16_Act II - Scene VI - Friar Lawrence’s Cell..txt
+Act III, Scene I — A public Place. -> 17_Act III - Scene I - A public Place..txt
+Act III, Scene II — A Room in Capulet’s House. -> 18_Act III - Scene II - A Room in Capulet’s House..txt
+Act III, Scene III — Friar Lawrence’s cell. -> 19_Act III - Scene III - Friar Lawrence’s cell..txt
+Act III, Scene IV — A Room in Capulet’s House. -> 20_Act III - Scene IV - A Room in Capulet’s House..txt
+Act III, Scene V — An open Gallery to Juliet’s Chamber, overlooking the Garden. -> 21_Act III - Scene V - An open Gallery to Juliet’s Chamber, overlooking the Garden..txt
+Act IV, Scene I — Friar Lawrence’s Cell. -> 22_Act IV - Scene I - Friar Lawrence’s Cell..txt
+Act IV, Scene II — Hall in Capulet’s House. -> 23_Act IV - Scene II - Hall in Capulet’s House..txt
+Act IV, Scene III — Juliet’s Chamber. -> 24_Act IV - Scene III - Juliet’s Chamber..txt
+Act IV, Scene IV — Hall in Capulet’s House. -> 25_Act IV - Scene IV - Hall in Capulet’s House..txt
+Act IV, Scene V — Juliet’s Chamber; Juliet on the bed. -> 26_Act IV - Scene V - Juliet’s Chamber; Juliet on the bed..txt
+Act V, Scene I — Mantua. A Street. -> 27_Act V - Scene I - Mantua. A Street..txt
+Act V, Scene II — Friar Lawrence’s Cell. -> 28_Act V - Scene II - Friar Lawrence’s Cell..txt
+Act V, Scene III — A churchyard; in it a Monument belonging to the Capulets. -> 29_Act V - Scene III - A churchyard; in it a Monument belonging to the Capulets..txt

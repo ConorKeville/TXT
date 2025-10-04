@@ -1,0 +1,34 @@
+TWELFTH NIGHT; OR, WHAT YOU WILL — Scene Index
+
+Special Sections:
+  - Dramatis Personae  →  01_Dramatis_Personae.txt  (words: 81, lines: 18)
+  - Setting  →  02_Setting.txt  (words: 10, lines: 1)
+
+Acts & Scenes:
+ACT I (1)
+  Scene I (1) — An Apartment in the Duke’s Palace.  →  03_Act1_Scene1_an_apartment_in_the_dukes_palace.txt  (words: 351, lines: 67)
+  Scene II (2) — The sea-coast.  →  04_Act1_Scene2_the_sea_coast.txt  (words: 516, lines: 115)
+  Scene III (3) — A Room in Olivia’s House.  →  05_Act1_Scene3_a_room_in_olivias_house.txt  (words: 1139, lines: 255)
+  Scene IV (4) — A Room in the Duke’s Palace.  →  06_Act1_Scene4_a_room_in_the_dukes_palace.txt  (words: 364, lines: 80)
+  Scene V (5) — A Room in Olivia’s House.  →  07_Act1_Scene5_a_room_in_olivias_house.txt  (words: 2593, lines: 537)
+
+ACT II (2)
+  Scene I (1) — The sea-coast.  →  08_Act2_Scene1_the_sea_coast.txt  (words: 417, lines: 68)
+  Scene II (2) — A street.  →  09_Act2_Scene2_a_street.txt  (words: 363, lines: 57)
+  Scene III (3) — A Room in Olivia’s House.  →  10_Act2_Scene3_a_room_in_olivias_house.txt  (words: 1585, lines: 337)
+  Scene IV (4) — A Room in the Duke’s Palace.  →  11_Act2_Scene4_a_room_in_the_dukes_palace.txt  (words: 1023, lines: 228)
+  Scene V (5) — Olivia’s garden.  →  12_Act2_Scene5_olivias_garden.txt  (words: 1634, lines: 351)
+
+ACT III (3)
+  Scene I (1) — Olivia’s garden.  →  13_Act3_Scene1_olivias_garden.txt  (words: 1395, lines: 300)
+  Scene II (2) — A Room in Olivia’s House.  →  14_Act3_Scene2_a_room_in_olivias_house.txt  (words: 741, lines: 129)
+  Scene III (3) — A street.  →  15_Act3_Scene3_a_street.txt  (words: 421, lines: 89)
+  Scene IV (4) — Olivia’s garden.  →  16_Act3_Scene4_olivias_garden.txt  (words: 3321, lines: 695)
+
+ACT IV (4)
+  Scene I (1) — The Street before Olivia’s House.  →  17_Act4_Scene1_the_street_before_olivias_house.txt  (words: 581, lines: 132)
+  Scene II (2) — A Room in Olivia’s House.  →  18_Act4_Scene2_a_room_in_olivias_house.txt  (words: 1046, lines: 234)
+  Scene III (3) — Olivia’s Garden.  →  19_Act4_Scene3_olivias_garden.txt  (words: 311, lines: 52)
+
+ACT V (5)
+  Scene I (1) — The Street before Olivia’s House.  →  20_Act5_Scene1_the_street_before_olivias_house.txt  (words: 3368, lines: 697)

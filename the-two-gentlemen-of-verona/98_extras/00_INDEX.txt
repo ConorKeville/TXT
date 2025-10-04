@@ -1,0 +1,40 @@
+THE TWO GENTLEMEN OF VERONA — Scene Index
+
+Special Files:
+  - Specials/Dramatis Personae.txt
+  - Specials/Scene Locations.txt  (SCENE: Verona; Milan; the frontiers of Mantua)
+
+Act I:
+  - Scene I: Verona. An open place  -->  Act I/Scene I - Verona - An open place.txt
+  - Scene II: The same. The garden of Julia's house  -->  Act I/Scene II - The same - The garden of Julia's house.txt
+  - Scene III: The same. A room in Antonio's house  -->  Act I/Scene III - The same - A room in Antonio's house.txt
+
+Act II:
+  - Scene I: Milan. A room in the Duke's palace  -->  Act II/Scene I - Milan - A room in the Duke's palace.txt
+  - Scene II: Verona. A room in Julia's house  -->  Act II/Scene II - Verona - A room in Julia's house.txt
+  - Scene III: The same. A street  -->  Act II/Scene III - The same - A street.txt
+  - Scene IV: Milan. A room in the Duke's palace  -->  Act II/Scene IV - Milan - A room in the Duke's palace.txt
+  - Scene V: The same. A street  -->  Act II/Scene V - The same - A street.txt
+  - Scene VI: The same. The Duke's palace  -->  Act II/Scene VI - The same - The Duke's palace.txt
+  - Scene VII: Verona. A room in Julia's house  -->  Act II/Scene VII - Verona - A room in Julia's house.txt
+
+Act III:
+  - Scene I: Milan. An anteroom in the Duke's palace  -->  Act III/Scene I - Milan - An anteroom in the Duke's palace.txt
+  - Scene II: The same. A room in the Duke's palace  -->  Act III/Scene II - The same - A room in the Duke's palace.txt
+
+Act IV:
+  - Scene I: A forest between Milan and Verona  -->  Act IV/Scene I - A forest between Milan and Verona.txt
+  - Scene II: Milan. The court of the Duke's palace  -->  Act IV/Scene II - Milan - The court of the Duke's palace.txt
+  - Scene III: The same  -->  Act IV/Scene III - The same.txt
+  - Scene IV: The same  -->  Act IV/Scene IV - The same.txt
+
+Act V:
+  - Scene I: Milan. An abbey  -->  Act V/Scene I - Milan - An abbey.txt
+  - Scene II: The same. A room in the Duke's palace  -->  Act V/Scene II - The same - A room in the Duke's palace.txt
+  - Scene III: Frontiers of Mantua. The forest  -->  Act V/Scene III - Frontiers of Mantua - The forest.txt
+  - Scene IV: Another part of the forest  -->  Act V/Scene IV - Another part of the forest.txt
+
+Notes:
+  • Each scene file includes its ACT heading for standalone context.
+  • Original orthography is preserved; only normalization is non-substantive (line endings, filenames).
+  • No Prologue, Chorus, or Epilogue sections were found in this play.

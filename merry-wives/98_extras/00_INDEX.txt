@@ -1,0 +1,43 @@
+Index for The Merry Wives of Windsor
+
+Generated: 2025-10-01 12:08 UTC
+
+Contents:
+  - 00_Dramatis_Personae.txt  (Dramatis Personae and Scene note)
+
+ACT I
+  Scene I: Windsor. Before Page’s house  ->  01_Act_I_Scene_01_Windsor_Before_Pages_house.txt
+  Scene II: The same  ->  01_Act_I_Scene_02_The_same.txt
+  Scene III: A room in the Garter Inn  ->  01_Act_I_Scene_03_A_room_in_the_Garter_Inn.txt
+  Scene IV: A room in Doctor Caius’s house  ->  01_Act_I_Scene_04_A_room_in_Doctor_Caiuss_house.txt
+
+ACT II
+  Scene I: Before Page’s house  ->  02_Act_II_Scene_01_Before_Pages_house.txt
+  Scene II: A room in the Garter Inn  ->  02_Act_II_Scene_02_A_room_in_the_Garter_Inn.txt
+  Scene III: A field near Windsor  ->  02_Act_II_Scene_03_A_field_near_Windsor.txt
+
+ACT III
+  Scene I: A field near Frogmore  ->  03_Act_III_Scene_01_A_field_near_Frogmore.txt
+  Scene II: A street in Windsor  ->  03_Act_III_Scene_02_A_street_in_Windsor.txt
+  Scene III: A room in Ford’s house  ->  03_Act_III_Scene_03_A_room_in_Fords_house.txt
+  Scene IV: A room in Page’s house  ->  03_Act_III_Scene_04_A_room_in_Pages_house.txt
+  Scene V: A room in the Garter Inn  ->  03_Act_III_Scene_05_A_room_in_the_Garter_Inn.txt
+
+ACT IV
+  Scene I: The street  ->  04_Act_IV_Scene_01_The_street.txt
+  Scene II: A room in Ford’s house  ->  04_Act_IV_Scene_02_A_room_in_Fords_house.txt
+  Scene III: A room in the Garter Inn  ->  04_Act_IV_Scene_03_A_room_in_the_Garter_Inn.txt
+  Scene IV: A room in Ford’s house  ->  04_Act_IV_Scene_04_A_room_in_Fords_house.txt
+  Scene V: A room in the Garter Inn  ->  04_Act_IV_Scene_05_A_room_in_the_Garter_Inn.txt
+  Scene VI: Another room in the Garter Inn  ->  04_Act_IV_Scene_06_Another_room_in_the_Garter_Inn.txt
+
+ACT V
+  Scene I: A room in the Garter Inn  ->  05_Act_V_Scene_01_A_room_in_the_Garter_Inn.txt
+  Scene II: Windsor Park  ->  05_Act_V_Scene_02_Windsor_Park.txt
+  Scene III: The street in Windsor  ->  05_Act_V_Scene_03_The_street_in_Windsor.txt
+  Scene IV: Windsor Park  ->  05_Act_V_Scene_04_Windsor_Park.txt
+  Scene V: Another part of the Park  ->  05_Act_V_Scene_05_Another_part_of_the_Park.txt
+
+Notes:
+- This edition contains no Prologue, Chorus, or Epilogue.
+- Scene headings and stage directions are preserved verbatim from the source text.

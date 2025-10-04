@@ -1,0 +1,32 @@
+Love’s Labour’s Lost — Scene Index
+Author: William Shakespeare
+
+This archive contains TXT files split by scene, plus front matter and a special extract.
+
+- dramatis_personae.txt — Dramatis Personae
+- setting.txt — Scene Setting
+
+ACT 1
+  - act01_scene01.txt — SCENE 1: The King of Navarre’s park
+  - act01_scene02.txt — SCENE 2: The park
+
+ACT 2
+  - act02_scene01.txt — SCENE 1: The King of Navarre’s park. A pavilion and tents at a distance
+
+ACT 3
+  - act03_scene01.txt — SCENE 1: The King of Navarre’s park
+
+ACT 4
+  - act04_scene01.txt — SCENE 1: The King of Navarre’s park
+  - act04_scene02.txt — SCENE 2: The same
+  - act04_scene03.txt — SCENE 3: The same
+
+ACT 5
+  - act05_scene01.txt — SCENE 1: The King of Navarre’s park
+  - act05_scene02.txt — SCENE 2: The same. Before the Princess’s pavilion
+
+- act05_song_spring_and_winter.txt — Special extract: “The Song” (Spring & Winter) from Act V, Scene II
+
+Notes:
+• This play has no separate Prologue, Chorus, or Epilogue in the source text.
+• The closing two-part poem (“The Song”) is included both inside Act V, Scene II and as a separate extract for convenience.

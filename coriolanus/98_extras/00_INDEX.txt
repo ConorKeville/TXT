@@ -1,0 +1,38 @@
+THE TRAGEDY OF CORIOLANUS
+Scene Split — Index (v3)
+
+Special Files:
+  - 01_TABLE_OF_CONTENTS.txt
+  - 02_DRAMATIS_PERSONAE.txt
+  - (No Prologue, Chorus, or Epilogue in this text.)
+
+Scenes:
+  - ACT I, SCENE I: Rome. A street  ->  ACT_I_SCENE_I - Rome. A street.txt
+  - ACT I, SCENE II: Corioles. The Senate House  ->  ACT_I_SCENE_II - Corioles. The Senate House.txt
+  - ACT I, SCENE III: Rome. An apartment in Martius’ house  ->  ACT_I_SCENE_III - Rome. An apartment in Martius’ house.txt
+  - ACT I, SCENE IV: Before Corioles  ->  ACT_I_SCENE_IV - Before Corioles.txt
+  - ACT I, SCENE V: Within Corioles. A street  ->  ACT_I_SCENE_V - Within Corioles. A street.txt
+  - ACT I, SCENE VI: Near the camp of Cominius  ->  ACT_I_SCENE_VI - Near the camp of Cominius.txt
+  - ACT I, SCENE VII: The gates of Corioles  ->  ACT_I_SCENE_VII - The gates of Corioles.txt
+  - ACT I, SCENE VIII: A field of battle between the Roman and the Volscian camps  ->  ACT_I_SCENE_VIII - A field of battle between the Roman and the Volscian camps.txt
+  - ACT I, SCENE IX: The Roman camp  ->  ACT_I_SCENE_IX - The Roman camp.txt
+  - ACT I, SCENE X: The camp of the Volsces  ->  ACT_I_SCENE_X - The camp of the Volsces.txt
+  - ACT II, SCENE I: Rome. A public place  ->  ACT_II_SCENE_I - Rome. A public place.txt
+  - ACT II, SCENE II: Rome. The Capitol  ->  ACT_II_SCENE_II - Rome. The Capitol.txt
+  - ACT II, SCENE III: Rome. The Forum  ->  ACT_II_SCENE_III - Rome. The Forum.txt
+  - ACT III, SCENE I: Rome. A street  ->  ACT_III_SCENE_I - Rome. A street.txt
+  - ACT III, SCENE II: Rome. A room in Coriolanus’s house  ->  ACT_III_SCENE_II - Rome. A room in Coriolanus’s house.txt
+  - ACT III, SCENE III: Rome. The Forum  ->  ACT_III_SCENE_III - Rome. The Forum.txt
+  - ACT IV, SCENE I: Rome. Before a gate of the city  ->  ACT_IV_SCENE_I - Rome. Before a gate of the city.txt
+  - ACT IV, SCENE II: Rome. A street near the gate  ->  ACT_IV_SCENE_II - Rome. A street near the gate.txt
+  - ACT IV, SCENE III: A highway between Rome and Antium  ->  ACT_IV_SCENE_III - A highway between Rome and Antium.txt
+  - ACT IV, SCENE IV: Antium. Before Aufidius’s house  ->  ACT_IV_SCENE_IV - Antium. Before Aufidius’s house.txt
+  - ACT IV, SCENE V: Antium. A hall in Aufidius’s house  ->  ACT_IV_SCENE_V - Antium. A hall in Aufidius’s house.txt
+  - ACT IV, SCENE VI: Rome. A public place  ->  ACT_IV_SCENE_VI - Rome. A public place.txt
+  - ACT IV, SCENE VII: A camp at a short distance from Rome  ->  ACT_IV_SCENE_VII - A camp at a short distance from Rome.txt
+  - ACT V, SCENE I: Rome. A public place  ->  ACT_V_SCENE_I - Rome. A public place.txt
+  - ACT V, SCENE II: An Advanced post of the Volscian camp before Rome.  ->  ACT_V_SCENE_II - An Advanced post of the Volscian camp before Rome.txt
+  - ACT V, SCENE III: The tent of Coriolanus  ->  ACT_V_SCENE_III - The tent of Coriolanus.txt
+  - ACT V, SCENE IV: Rome. A public place  ->  ACT_V_SCENE_IV - Rome. A public place.txt
+  - ACT V, SCENE V: Rome. A street near the gate  ->  ACT_V_SCENE_V - Rome. A street near the gate.txt
+  - ACT V, SCENE VI: Antium. A public place  ->  ACT_V_SCENE_VI - Antium. A public place.txt

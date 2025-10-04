@@ -1,0 +1,38 @@
+THE TRAGEDY OF OTHELLO, THE MOOR OF VENICE
+
+Index
+============================================================
+
+Front Matter:
+  - 00_Front_Matter/00_Title.txt
+  - 00_Front_Matter/01_Contents.txt
+  - 00_Front_Matter/02_Dramatis_Personae.txt
+  - 00_Front_Matter/03_Scene_Note.txt
+
+Scenes by Act:
+ACT I
+  Scene I: Venice. A street. -> Act_01/Scene_01_Venice_A_street.txt
+  Scene II: Venice. Another street. -> Act_01/Scene_02_Venice_Another_street.txt
+  Scene III: Venice. A council chamber. -> Act_01/Scene_03_Venice_A_council_chamber.txt
+
+ACT II
+  Scene I: A seaport in Cyprus. A Platform. -> Act_02/Scene_01_A_seaport_in_Cyprus_A_Platform.txt
+  Scene II: A street. -> Act_02/Scene_02_A_street.txt
+  Scene III: A Hall in the Castle. -> Act_02/Scene_03_A_Hall_in_the_Castle.txt
+
+ACT III
+  Scene I: Cyprus. Before the Castle. -> Act_03/Scene_01_Cyprus_Before_the_Castle.txt
+  Scene II: Cyprus. A Room in the Castle. -> Act_03/Scene_02_Cyprus_A_Room_in_the_Castle.txt
+  Scene III: Cyprus. The Garden of the Castle. -> Act_03/Scene_03_Cyprus_The_Garden_of_the_Castle.txt
+  Scene IV: Cyprus. Before the Castle. -> Act_03/Scene_04_Cyprus_Before_the_Castle.txt
+
+ACT IV
+  Scene I: Cyprus. Before the Castle. -> Act_04/Scene_01_Cyprus_Before_the_Castle.txt
+  Scene II: Cyprus. A Room in the Castle. -> Act_04/Scene_02_Cyprus_A_Room_in_the_Castle.txt
+  Scene III: Cyprus. Another Room in the Castle. -> Act_04/Scene_03_Cyprus_Another_Room_in_the_Castle.txt
+
+ACT V
+  Scene I: Cyprus. A Street. -> Act_05/Scene_01_Cyprus_A_Street.txt
+  Scene II: Cyprus. A Bedchamber in the castle. -> Act_05/Scene_02_Cyprus_A_Bedchamber_in_the_castle.txt
+
+Total scenes: 15

@@ -1,0 +1,25 @@
+The Taming of the Shrew — Scene Index
+=====================================
+
+Special sections included:
+  • Dramatis Personae (with Scene/Setting note)
+  • Prologue (not present)
+  • Chorus (not present)
+  • Epilogue (not present)
+
+Files:
+  00_Dramatis_Personae.txt  — Dramatis Personae (with Scene/Setting note)
+  01_Induction_Scene_I.txt  — Induction — Scene I. Before an alehouse on a heath.
+  02_Induction_Scene_II.txt  — Induction — Scene II. A bedchamber in the Lord’s house.
+  03_Act_I_Scene_I.txt  — Act I — Scene I. Padua. A public place.
+  04_Act_I_Scene_II.txt  — Act I — Scene II. Padua. Before Hortensio’s house.
+  05_Act_II_Scene_I.txt  — Act II — Scene I. Padua. A room in Baptista’s house.
+  06_Act_III_Scene_I.txt  — Act III — Scene I. Padua. A room in Baptista’s house.
+  07_Act_III_Scene_II.txt  — Act III — Scene II. The same. Before Baptista’s house.
+  08_Act_IV_Scene_I.txt  — Act IV — Scene I. A hall in Petruchio’s country house.
+  09_Act_IV_Scene_II.txt  — Act IV — Scene II. Padua. Before Baptista’s house.
+  10_Act_IV_Scene_III.txt  — Act IV — Scene III. A room in Petruchio’s house.
+  11_Act_IV_Scene_IV.txt  — Act IV — Scene IV. Padua. Before Baptista’s house.
+  12_Act_IV_Scene_V.txt  — Act IV — Scene V. A public road.
+  13_Act_V_Scene_I.txt  — Act V — Scene I. Padua. Before Lucentio’s house.
+  14_Act_V_Scene_II.txt  — Act V — Scene II. A room in Lucentio’s house.
